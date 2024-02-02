@@ -19,5 +19,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec fringilla malesua
 
 ---
 
-<h1> 🤓 Stats for nerds. </h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jasonmatthewsuhari" alt="jasonmatthewsuhari" /></a> </p>
