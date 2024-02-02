@@ -12,7 +12,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec fringilla malesua
 
 ---
 
-<h1 align="right"> Check these out. 😎 </h1>
+<h1> Check these out. 😎 </h1>
 This part will be filled with project icons sooner or later, but will be using text for now.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec fringilla malesuada augue. Pellentesque egestas vel enim in consequat. Nullam nunc lacus, laoreet a diam id, sollicitudin varius nunc. Nulla facilisi. Vivamus vulputate sagittis est et tempus. Duis ullamcorper ante et lorem varius, in ultricies ligula condimentum. Nulla quis scelerisque risus. In semper enim ut arcu molestie finibus. Proin dictum pellentesque risus, ac aliquam sem vestibulum eu. Maecenas in ex diam. Pellentesque et erat mauris.
