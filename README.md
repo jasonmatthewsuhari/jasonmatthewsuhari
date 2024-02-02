@@ -12,8 +12,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec fringilla malesua
 
 ---
 
-<h1 align="right">test heaidng 2 wooho 👍</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jasonmatthewsuhari&label=Profile%20views&color=0e75b6&style=flat" alt="jasonmatthewsuhari" /> </p>
+<h1 align="right"> Check these out. 😎 </h1>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jasonmatthewsuhari" alt="jasonmatthewsuhari" /></a> </p>
 
