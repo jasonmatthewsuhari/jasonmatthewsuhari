@@ -16,10 +16,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec fringilla malesua
 This part will be filled with project icons sooner or later, but will be using text for now.
 
 <div style="display:flex">
-<img src="images/square.png" alt="img" style="width: 25%; aspect-ratio: 1/1;">
-<img src="images/square.png" alt="img" style="width: 25%; aspect-ratio: 1/1;">
-<img src="images/square.png" alt="img" style="width: 25%; aspect-ratio: 1/1;">
-<img src="images/square.png" alt="img" style="width: 25%; aspect-ratio: 1/1;">
+<img src="images/square.png" alt="img" style="width: 23%; aspect-ratio: 1/1;">
+<img src="images/square.png" alt="img" style="width: 23%; aspect-ratio: 1/1;">
+<img src="images/square.png" alt="img" style="width: 23%; aspect-ratio: 1/1;">
+<img src="images/square.png" alt="img" style="width: 23%; aspect-ratio: 1/1;">
 </div>
 
 ---
