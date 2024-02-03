@@ -15,10 +15,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec fringilla malesua
 <h1> Check these out. 😎 </h1>
 This part will be filled with project icons sooner or later, but will be using text for now.
 
-<img src="images/id-flag.png" alt="img" style="width: 15%; aspect-ratio: 1/1;">
-<img src="images/id-flag.png" alt="img" style="width: 15%; aspect-ratio: 1/1;">
-<img src="images/id-flag.png" alt="img" style="width: 15%; aspect-ratio: 1/1;">
-<img src="images/id-flag.png" alt="img" style="width: 15%; aspect-ratio: 1/1;">
+<div style="display:flex">
+<img src="images/id-flag.png" alt="img" style="width: 25%; aspect-ratio: 1/1;">
+<img src="images/id-flag.png" alt="img" style="width: 25%; aspect-ratio: 1/1;">
+<img src="images/id-flag.png" alt="img" style="width: 25%; aspect-ratio: 1/1;">
+<img src="images/id-flag.png" alt="img" style="width: 25%; aspect-ratio: 1/1;">
+</div>
 
 ---
 
