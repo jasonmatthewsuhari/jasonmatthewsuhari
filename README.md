@@ -12,7 +12,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec fringilla malesua
 
 ---
 
-<h1> Check these out. 😎 </h1>
+<h1> 🎭 Beyond the monitor... </h1>
+I find myself enjoying eiowhjnqurvinhjkuyeqwhniuyjvehijnuy8rvhuyijknewrkhnuy8ijvewnhqruy8ijkvhijknuy8qrwevhuijkn8yeqrwiv8hjuyewrhuyijknbvqeuwyhijknrvfiunhy8jkerwhijuy8veqrwjhu8ivuewhijkqvhijkuerhijuvnkeqi8uhy7jvye8hijqurvhijuy8eqrwhijuykneqwhj8inuyvewqriuhy8jvey8hijnu
+---
+
+<h1> 😎 Check these out. </h1>
 This part will be filled with project icons sooner or later, but will be using text for now.
 
 <div style="display: flex; justify-content: center; align-items: center;">
