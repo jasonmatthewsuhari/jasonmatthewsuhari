@@ -20,6 +20,16 @@ This part will be filled with project icons sooner or later, but will be using t
 <img src="images/square_icon.png" alt="img" style="width: 23%; aspect-ratio: 1/1;">
 <img src="images/square_icon.png" alt="img" style="width: 23%; aspect-ratio: 1/1;">
 <img src="images/square_icon.png" alt="img" style="width: 23%; aspect-ratio: 1/1;">
+
+<img src="images/square_icon.png" alt="img" style="width: 23%; aspect-ratio: 1/1;">
+<img src="images/square_icon.png" alt="img" style="width: 23%; aspect-ratio: 1/1;">
+<img src="images/square_icon.png" alt="img" style="width: 23%; aspect-ratio: 1/1;">
+<img src="images/square_icon.png" alt="img" style="width: 23%; aspect-ratio: 1/1;">
+
+<img src="images/square_icon.png" alt="img" style="width: 23%; aspect-ratio: 1/1;">
+<img src="images/square_icon.png" alt="img" style="width: 23%; aspect-ratio: 1/1;">
+<img src="images/square_icon.png" alt="img" style="width: 23%; aspect-ratio: 1/1;">
+<img src="images/square_icon.png" alt="img" style="width: 23%; aspect-ratio: 1/1;">
 </div>
 
 ---
