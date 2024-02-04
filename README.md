@@ -8,16 +8,14 @@
 </table>
 
 <h1> 🙋‍♂️ Hi there, you can call me Jason! </h1>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec fringilla malesuada augue. Pellentesque egestas vel enim in consequat. Nullam nunc lacus, laoreet a diam id, sollicitudin varius nunc. Nulla facilisi. Vivamus vulputate sagittis est et tempus. Duis ullamcorper ante et lorem varius, in ultricies ligula condimentum. Nulla quis scelerisque risus. In semper enim ut arcu molestie finibus. Proin dictum pellentesque risus, ac aliquam sem vestibulum eu. Maecenas in ex diam. Pellentesque et erat mauris.
+I'm a data scientist and aspiring indie game developer hailing all the way from tropical Indonesia. This means I'm a professional aircon enjoyer, and small-time food critique. I spend a lot of my free time cooking dishes from various cuisines, building up pixel art experience and being competitively delusional.
 
----
+Despite my profile picture making me look like I run three MLMs in my sleep, I do enjoy talking to people and making new friends :)
 
-<h1> 🎭 Beyond the monitor... </h1>
-I find myself enjoying eiowhjnqurvinhjkuyeqwhniuyjvehijnuy8rvhuyijknewrkhnuy8ijvewnhqruy8ijkvhijknuy8qrwevhuijkn8yeqrwiv8hjuyewrhuyijknbvqeuwyhijknrvfiunhy8jkerwhijuy8veqrwjhu8ivuewhijkqvhijkuerhijuvnkeqi8uhy7jvye8hijqurvhijuy8eqrwhijuykneqwhj8inuyvewqriuhy8jvey8hijnu
 ---
 
 <h1> 😎 Check these out. </h1>
-This part will be filled with project icons sooner or later, but will be using text for now.
+These are some of the projects and blog posts I've worked on in the past. AKA the late-night eureka moments that I could still remember the day after. Some of the projects here are just fun stuff, while others are actual genuine projects. 
 
 <div style="display: flex; justify-content: center; align-items: center;">
 <img src="images/square_icon.png" alt="img" style="width: 23%; aspect-ratio: 1/1;">
