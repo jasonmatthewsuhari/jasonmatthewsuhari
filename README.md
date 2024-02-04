@@ -39,4 +39,6 @@ This part will be filled with project icons sooner or later, but will be using t
 </div>
 
 ---
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jasonmatthewsuhari" alt="jasonmatthewsuhari" /></a> </p>
+<div style="display: flex; justify-content: center; align-items: center;">
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jasonmatthewsuhari" alt="jasonmatthewsuhari" /></a>
+</div>
