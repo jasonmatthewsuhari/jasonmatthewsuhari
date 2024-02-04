@@ -8,9 +8,7 @@
 </table>
 
 <h1> 🙋‍♂️ Hi there, you can call me Jason! </h1>
-I'm a data scientist, indie game developer, and pixel artist hailing from the National University of Singapore. Currently taking on a Bachelor of Science in Data Science and Analytics, with an intended second major in Computer Science. 
-
-My journey in creative works started with a simple 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec fringilla malesuada augue. Pellentesque egestas vel enim in consequat. Nullam nunc lacus, laoreet a diam id, sollicitudin varius nunc. Nulla facilisi. Vivamus vulputate sagittis est et tempus. Duis ullamcorper ante et lorem varius, in ultricies ligula condimentum. Nulla quis scelerisque risus. In semper enim ut arcu molestie finibus. Proin dictum pellentesque risus, ac aliquam sem vestibulum eu. Maecenas in ex diam. Pellentesque et erat mauris.
 
 ---
 
@@ -40,6 +38,12 @@ This part will be filled with project icons sooner or later, but will be using t
 
 ---
 <div style="display: flex; justify-content: center; align-items: center;">
+<<<<<<< HEAD
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jasonmatthewsuhari" alt="jasonmatthewsuhari" /></a>
 </div>
+=======
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=gruvbox&preferLogin=false">    <img  alt="jasonmatthewsuhari's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/jasonmatthewsuhari?cardType=github&theme=gruvbox&preferLogin=false" />  </a>
+</div>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jasonmatthewsuhari" alt="jasonmatthewsuhari" /></a> </p>
+>>>>>>> parent of fcc42f3 (Update README.md)
