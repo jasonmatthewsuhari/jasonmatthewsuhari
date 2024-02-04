@@ -10,7 +10,7 @@
 <h1> 🙋‍♂️ Hi there, you can call me Jason! </h1>
 I'm a data scientist and aspiring indie game developer hailing all the way from tropical Indonesia. This means I'm a professional aircon enjoyer, and small-time food critique. I spend a lot of my free time cooking dishes from various cuisines, building up pixel art experience and being competitively delusional.
 <br><br>
-Despite my profile picture making me look like I run three MLMs in my sleep, I do enjoy talking to people and making new friends :) Most of my information and links can be found through my <a href="https://linktr.ee/jasonmatthewsuhari">LinkTree</a>, but you can view some of my projects through the portal down below.
+Despite my profile picture making me look like I run three MLMs in my sleep, I do enjoy talking to people and making new friends :) Most of my information and links can be found through my <a href="https://linktr.ee/jasonmatthewsuhari">LinkTree</a>, but some of my projects are down below.
 
 ---
 
