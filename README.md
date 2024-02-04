@@ -38,12 +38,9 @@ This part will be filled with project icons sooner or later, but will be using t
 
 ---
 <div style="display: flex; justify-content: center; align-items: center;">
-<<<<<<< HEAD
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jasonmatthewsuhari" alt="jasonmatthewsuhari" /></a>
 </div>
-=======
+
+<div style="display: flex; justify-content: center; align-items: center;">
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=gruvbox&preferLogin=false">    <img  alt="jasonmatthewsuhari's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/jasonmatthewsuhari?cardType=github&theme=gruvbox&preferLogin=false" />  </a>
 </div>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jasonmatthewsuhari" alt="jasonmatthewsuhari" /></a> </p>
->>>>>>> parent of fcc42f3 (Update README.md)
