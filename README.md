@@ -9,29 +9,28 @@
 
 <h1> 🙋‍♂️ Hi there, you can call me Jason! </h1>
 I'm a data scientist and aspiring indie game developer hailing all the way from tropical Indonesia. This means I'm a professional aircon enjoyer, and small-time food critique. I spend a lot of my free time cooking dishes from various cuisines, building up pixel art experience and being competitively delusional.
+I'm a data scientist and aspiring indie game developer hailing all the way from tropical Indonesia. This means I'm a professional aircon enjoyer, and small-time food critique. I spend a lot of my free time cooking dishes from various cuisines, building up pixel art experience and  writing for my blog.
 <br><br>
 Despite my profile picture making me look like I run three MLMs in my sleep, I do enjoy talking to people and making new friends :) Most of my information and links can be found through my <a href="https://linktr.ee/jasonmatthewsuhari">LinkTree</a>, but some of my projects are down below.
 
 ---
 
 <h1> 😎 Check these out. </h1>
-These are some of the projects and blog posts I've worked on in the past. AKA the late-night eureka moments that I could still remember the day after. Some of the projects here are just fun stuff, while others are actual genuine projects. 
+These are some of the projects and blog posts I've worked on in the past. AKA the late-night eureka moments that I could still remember the day after. Some of the projects here are mostly for fun, but I hope you enjoy them all the same. 
 
 <div style="display: flex; justify-content: center; align-items: center;">
-<img src="images/square_icon.png" alt="img" style="width: 23%; aspect-ratio: 1/1;">
-<img src="images/square_icon.png" alt="img" style="width: 23%; aspect-ratio: 1/1;">
-<img src="images/square_icon.png" alt="img" style="width: 23%; aspect-ratio: 1/1;">
-<img src="images/square_icon.png" alt="img" style="width: 23%; aspect-ratio: 1/1;">
-
-<img src="images/square_icon.png" alt="img" style="width: 23%; aspect-ratio: 1/1;">
-<img src="images/square_icon.png" alt="img" style="width: 23%; aspect-ratio: 1/1;">
-<img src="images/square_icon.png" alt="img" style="width: 23%; aspect-ratio: 1/1;">
-<img src="images/square_icon.png" alt="img" style="width: 23%; aspect-ratio: 1/1;">
-
-<img src="images/square_icon.png" alt="img" style="width: 23%; aspect-ratio: 1/1;">
-<img src="images/square_icon.png" alt="img" style="width: 23%; aspect-ratio: 1/1;">
-<img src="images/square_icon.png" alt="img" style="width: 23%; aspect-ratio: 1/1;">
-<img src="images/square_icon.png" alt="img" style="width: 23%; aspect-ratio: 1/1;">
+<a href=""> 
+<img src="images/project.png" alt="Project_Name" style="width: 23%; aspect-ratio: 1/1;">
+</a>
+<a href=""> 
+<img src="images/project.png" alt="Project_Name" style="width: 23%; aspect-ratio: 1/1;">
+</a>
+<a href=""> 
+<img src="images/project.png" alt="Project_Name" style="width: 23%; aspect-ratio: 1/1;">
+</a>
+<a href=""> 
+<img src="images/project.png" alt="Project_Name" style="width: 23%; aspect-ratio: 1/1;">
+</a>
 </div>
 
 ---
