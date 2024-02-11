@@ -18,7 +18,7 @@ Despite my profile picture making me look like I run three MLMs in my sleep, I d
 These are some of the projects and blog posts I've worked on in the past. AKA the late-night eureka moments that I could still remember the day after. Some of the projects here are mostly for fun, but I hope you enjoy them all the same. 
 
 <div style="display: flex; justify-content: center; align-items: center;">
-<a href=""> 
+<a href="https://medium.com/@jasonmatthewsuhari"> 
 <img src="images/project-thumbnails/medium.png" alt="Jason's Medium" style="width: 23%; aspect-ratio: 1/1;">
 </a>
 <a href=""> 
