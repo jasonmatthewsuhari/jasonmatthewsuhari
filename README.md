@@ -19,7 +19,7 @@ These are some of the projects and blog posts I've worked on in the past. AKA th
 
 <div style="display: flex; justify-content: center; align-items: center;">
 <a href=""> 
-<img src="images/project.png" alt="Project_Name" style="width: 23%; aspect-ratio: 1/1;">
+<img src="images/project-thumbnails/medium.png" alt="Jason's Medium" style="width: 23%; aspect-ratio: 1/1;">
 </a>
 <a href=""> 
 <img src="images/project.png" alt="Project_Name" style="width: 23%; aspect-ratio: 1/1;">
