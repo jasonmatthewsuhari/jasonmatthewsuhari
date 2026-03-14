@@ -4,10 +4,18 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=60&section=header&animation=twinkling" width="100%" />
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ░░░░░░░░░░░░░░░░░░ LANGUAGE SELECTOR ░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░ HERO SECTION ░░░░░░░░░░░░░░░░░░░░░░░ -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
+
+<br>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=100&lines=%F0%9F%91%8B+Hey%2C+I'm+Jason!;Data+Scientist+%7C+Game+Dev+%7C+Pixel+Artist;NUS+DSA+'27+%F0%9F%87%B8%F0%9F%87%AC+%E2%86%90+%F0%9F%87%AE%F0%9F%87%A9" alt="Typing SVG" /></a>
+
+<!-- 🥚 EASTER EGG 2/7: This README has more badges than a Boy Scout troop leader. -->
+
+<br>
 
 <a href="README.md"><img src="https://img.shields.io/badge/-English-FFFFFF?style=flat-square&logoColor=000" /></a>
 <a href="alt_readme/README_ID.md"><img src="https://img.shields.io/badge/-Bahasa%20Indonesia-D55E00?style=flat-square" /></a>
@@ -30,29 +38,7 @@
 <a href="README.md"><img src="https://img.shields.io/badge/-Svenska-FFFFFF?style=flat-square&logoColor=000" /></a>
 <a href="README.md"><img src="https://img.shields.io/badge/-Tagalog-D55E00?style=flat-square" /></a>
 
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ░░░░░░░░░░░░░░░░░░░░░ HERO SECTION ░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
 <br>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=100&lines=%F0%9F%91%8B+Hey%2C+I'm+Jason!;Data+Scientist+%7C+Game+Dev+%7C+Pixel+Artist;NUS+DSA+'27+%F0%9F%87%B8%F0%9F%87%AC+%E2%86%90+%F0%9F%87%AE%F0%9F%87%A9" alt="Typing SVG" /></a>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=jasonmatthewsuhari&label=Profile%20Views&color=FFFFFF&style=flat-square" alt="Profile Views" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/jasonmatthewsuhari?label=Followers&style=flat-square&color=56B4E9" alt="Followers" />
-&nbsp;
-<img src="https://img.shields.io/github/stars/jasonmatthewsuhari?label=Stars&style=flat-square&color=009E73" alt="Stars" />
-
-<!-- 🥚 EASTER EGG 2/7: This README has more badges than a Boy Scout troop leader. -->
-
-<br><br>
 
 </div>
 
@@ -185,9 +171,6 @@ Despite my profile picture making me look like I run three MLMs in my sleep, I d
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=jasonmatthewsuhari&theme=gruvbox&hide_border=true&bg_color=00000000&color=FFFFFF&line=56B4E9&point=D55E00&area=true&area_color=FFFFFF20" alt="Contribution Graph" />
 
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=jasonmatthewsuhari&theme=gruvbox&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
 
 </div>
 
@@ -201,7 +184,7 @@ Despite my profile picture making me look like I run three MLMs in my sleep, I d
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Random Dev Quote" />
+*"I didn't come this far, just to come this far."*
 
 </div>
 
