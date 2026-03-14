@@ -33,11 +33,11 @@
 
 </div>
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;Chi Sono
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;मेरे बारे में
 
-Sono un data scientist e aspirante sviluppatore indie di giochi dall'Indonesia, attualmente a Singapore. Professionista del condizionatore, piccolo critico gastronomico e appassionato di pixel art. Nel tempo libero cucino piatti di varie cucine, partecipo a hackathon e scrivo per il mio blog.
+मैं इंडोनेशिया से एक डेटा साइंटिस्ट और इंडी गेम डेवलपर हूं, वर्तमान में सिंगापुर में रहता हूं। प्रोफेशनल एसी प्रेमी, छोटा फूड क्रिटिक और पिक्सेल आर्ट उत्साही। अपने खाली समय में विभिन्न व्यंजन बनाता हूं, हैकाथॉन में भाग लेता हूं और ब्लॉग लिखता हूं।
 
-Anche se la mia foto profilo sembra che gestisca tre MLM nel sonno, mi piace parlare con le persone e fare nuove amicizie :)
+हालांकि मेरी प्रोफाइल फोटो ऐसी लगती है जैसे मैं नींद में तीन MLM चलाता हूं, मुझे लोगों से बात करना और नए दोस्त बनाना पसंद है :)
 
 <div align="center">
 <br>
@@ -63,7 +63,7 @@ Anche se la mia foto profilo sembra che gestisca tre MLM nel sonno, mi piace par
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=2" width="100%" />
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Stack Tecnologico
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;टेक स्टैक
 
 <div align="center">
 
@@ -87,7 +87,7 @@ Anche se la mia foto profilo sembra che gestisca tre MLM nel sonno, mi piace par
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=2" width="100%" />
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;Progetti in Evidenza
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;प्रमुख प्रोजेक्ट
 
 <div align="center">
 
@@ -118,7 +118,7 @@ Anche se la mia foto profilo sembra che gestisca tre MLM nel sonno, mi piace par
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=2" width="100%" />
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"> &nbsp;Analisi GitHub
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"> &nbsp;GitHub विश्लेषण
 
 <div align="center">
 
@@ -139,7 +139,7 @@ Anche se la mia foto profilo sembra che gestisca tre MLM nel sonno, mi piace par
 
 <div align="center">
 
-*"Non sono arrivato fin qui, solo per arrivare fin qui."*
+*"मैं इतना दूर नहीं आया, सिर्फ इतना दूर आने के लिए।"*
 
 </div>
 

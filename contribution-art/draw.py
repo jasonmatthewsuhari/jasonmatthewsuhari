@@ -140,16 +140,16 @@ def preview(grid: list[list[bool]]) -> None:
     for row in range(num_rows):
         line = ""
         for col in range(num_cols):
-            line += "\033[32m██\033[0m" if grid[col][row] else "  "
+            line += "##" if grid[col][row] else "  "
         print(line)
     print()
 
 
-def execute(grid: list[list[bool]]) -> None:
+def execute(grid: list[list[bool]], commits_per_pixel: int = COMMITS_PER_PIXEL) -> None:
     """Create backdated commits for each lit pixel."""
     start = get_start_sunday()
     total_pixels = sum(1 for col in grid for val in col if val)
-    total_commits = total_pixels * COMMITS_PER_PIXEL
+    total_commits = total_pixels * commits_per_pixel
     print(f"Creating {total_commits} commits for {total_pixels} pixels...")
 
     count = 0
@@ -162,7 +162,7 @@ def execute(grid: list[list[bool]]) -> None:
             date = start + timedelta(weeks=col_idx, days=row_idx)
             date_str = date.strftime("%Y-%m-%dT12:00:00")
 
-            for n in range(COMMITS_PER_PIXEL):
+            for n in range(commits_per_pixel):
                 count += 1
                 msg = f"art: pixel ({col_idx},{row_idx}) commit {n+1}"
                 subprocess.run(
@@ -211,9 +211,7 @@ def main() -> None:
         print("This will create backdated commits in the CURRENT repo.")
         confirm = input("Continue? (y/N): ").strip().lower()
         if confirm == "y":
-            global COMMITS_PER_PIXEL
-            COMMITS_PER_PIXEL = args.intensity
-            execute(grid)
+            execute(grid, args.intensity)
         else:
             print("Aborted.")
     else:

@@ -33,11 +33,11 @@
 
 </div>
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;Chi Sono
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;O Mnie
 
-Sono un data scientist e aspirante sviluppatore indie di giochi dall'Indonesia, attualmente a Singapore. Professionista del condizionatore, piccolo critico gastronomico e appassionato di pixel art. Nel tempo libero cucino piatti di varie cucine, partecipo a hackathon e scrivo per il mio blog.
+Jestem data scientistem i aspirującym indie deweloperem gier z Indonezji, obecnie mieszkam w Singapurze. Profesjonalny miłośnik klimatyzacji, mały krytyk kulinarny i entuzjasta pixel artu. W wolnym czasie gotuję dania z różnych kuchni, uczestniczę w hackathonach i piszę na blogu.
 
-Anche se la mia foto profilo sembra che gestisca tre MLM nel sonno, mi piace parlare con le persone e fare nuove amicizie :)
+Mimo że moje zdjęcie profilowe wygląda, jakbym prowadził trzy MLM-y we śnie, naprawdę lubię rozmawiać z ludźmi i zawierać nowe przyjaźnie :)
 
 <div align="center">
 <br>
@@ -63,7 +63,7 @@ Anche se la mia foto profilo sembra che gestisca tre MLM nel sonno, mi piace par
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=2" width="100%" />
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Stack Tecnologico
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Stos Technologiczny
 
 <div align="center">
 
@@ -87,7 +87,7 @@ Anche se la mia foto profilo sembra che gestisca tre MLM nel sonno, mi piace par
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=2" width="100%" />
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;Progetti in Evidenza
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;Wyróżnione Projekty
 
 <div align="center">
 
@@ -118,7 +118,7 @@ Anche se la mia foto profilo sembra che gestisca tre MLM nel sonno, mi piace par
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=2" width="100%" />
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"> &nbsp;Analisi GitHub
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"> &nbsp;Analityka GitHub
 
 <div align="center">
 
@@ -139,7 +139,7 @@ Anche se la mia foto profilo sembra che gestisca tre MLM nel sonno, mi piace par
 
 <div align="center">
 
-*"Non sono arrivato fin qui, solo per arrivare fin qui."*
+*"Nie zaszedłem tak daleko, żeby tylko tak daleko zajść."*
 
 </div>
 
