@@ -33,11 +33,11 @@
 
 </div>
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;关于我
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;Hakkımda
 
-我是一名来自印度尼西亚的数据科学家和独立游戏开发者，目前居住在新加坡。专业空调爱好者、小型美食评论家和像素艺术爱好者。闲暇时间，我喜欢烹饪各国菜肴、参加黑客马拉松和写博客。
+Endonezya'dan bir veri bilimci ve bağımsız oyun geliştirici adayıyım, şu anda Singapur'da yaşıyorum. Profesyonel klima hayranı, küçük çaplı yemek eleştirmeni ve piksel sanatı meraklısıyım. Boş zamanlarımda farklı mutfaklardan yemekler pişiriyor, hackathon'lara katılıyor ve bloguma yazıyorum.
 
-虽然我的头像看起来像是在睡觉时经营三个传销，但我确实喜欢与人交流和结交新朋友 :)
+Profil fotoğrafım uykumda üç MLM yönetiyormuşum gibi gösterse de, insanlarla konuşmayı ve yeni arkadaşlar edinmeyi seviyorum :)
 
 <div align="center">
 <br>
@@ -63,7 +63,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=2" width="100%" />
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;技术栈
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Teknoloji Yığını
 
 <div align="center">
 
@@ -87,7 +87,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=2" width="100%" />
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;精选项目
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;Öne Çıkan Projeler
 
 <div align="center">
 
@@ -118,7 +118,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=2" width="100%" />
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"> &nbsp;GitHub 分析
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"> &nbsp;GitHub Analizleri
 
 <div align="center">
 
@@ -139,7 +139,7 @@
 
 <div align="center">
 
-*"我走了这么远，不是为了只走到这里。"*
+*"Bu kadar uzağa, sadece bu kadar uzağa gelmek için gelmedim."*
 
 </div>
 
