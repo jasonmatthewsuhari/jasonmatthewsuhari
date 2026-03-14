@@ -153,11 +153,7 @@ Despite my profile picture making me look like I run three MLMs in my sleep, I d
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=jasonmatthewsuhari&theme=crt&screen_effect=true&include_all_commits=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=jasonmatthewsuhari&theme=summer&screen_effect=true&include_all_commits=true" />
-  <img alt="Pixel GitHub Stats" src="https://pixel-profile.vercel.app/api/github-stats?username=jasonmatthewsuhari&theme=crt&screen_effect=true&include_all_commits=true" width="75%" />
-</picture>
+<img src="https://pixel-profile.vercel.app/api/github-stats?username=jasonmatthewsuhari&theme=crt&screen_effect=true&include_all_commits=true" alt="GitHub Stats" width="75%" />
 
 <br><br>
 
