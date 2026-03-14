@@ -1,0 +1,40 @@
+name: Make a Chess Move
+description: Play chess against Jason via GitHub Issues!
+title: "[CHESS] My Move"
+labels: ["chess"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Make Your Move!
+        Use standard algebraic notation (e.g., `e2e4`, `Nf3`, `O-O`).
+
+        Check the current board state on my [profile README](https://github.com/jasonmatthewsuhari) before making your move.
+
+  - type: input
+    id: move
+    attributes:
+      label: Your Move
+      description: Enter your move in algebraic notation
+      placeholder: "e2e4"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: color
+    attributes:
+      label: Playing as
+      options:
+        - White
+        - Black
+    validations:
+      required: true
+
+  - type: textarea
+    id: trash-talk
+    attributes:
+      label: Trash Talk (optional)
+      description: Any words for your opponent?
+      placeholder: "Good luck, you'll need it!"
+    validations:
+      required: false

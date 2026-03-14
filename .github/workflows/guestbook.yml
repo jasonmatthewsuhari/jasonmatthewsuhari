@@ -1,0 +1,81 @@
+name: Guestbook
+
+on:
+  issues:
+    types: [labeled]
+
+jobs:
+  sign-guestbook:
+    if: github.event.label.name == 'guestbook'
+    runs-on: ubuntu-latest
+    name: Sign the Guestbook
+    permissions:
+      contents: write
+      issues: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Parse issue and update README
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const issue = context.payload.issue;
+            const author = issue.user.login;
+            const date = new Date().toISOString().split('T')[0];
+
+            // Extract message from issue body
+            const bodyLines = issue.body ? issue.body.split('\n') : [];
+            let message = 'No message';
+            for (const line of bodyLines) {
+              const trimmed = line.trim();
+              if (trimmed && !trimmed.startsWith('#') && !trimmed.startsWith('---')) {
+                message = trimmed.substring(0, 100);
+                break;
+              }
+            }
+
+            // Read README
+            const fs = require('fs');
+            let readme = fs.readFileSync('README.md', 'utf8');
+
+            // Build new row
+            const newRow = `| [@${author}](https://github.com/${author}) | ${date} | ${message} |`;
+
+            // Insert after the GUESTBOOK:START marker table header
+            const marker = '<!-- GUESTBOOK:START -->';
+            const endMarker = '<!-- GUESTBOOK:END -->';
+            const startIdx = readme.indexOf(marker);
+            const endIdx = readme.indexOf(endMarker);
+
+            if (startIdx !== -1 && endIdx !== -1) {
+              const before = readme.substring(0, startIdx + marker.length);
+              const after = readme.substring(endIdx);
+              const tableHeader = '\n| Name | Date | Message |\n|------|------|---------|';
+              readme = before + tableHeader + '\n' + newRow + '\n' + after;
+              fs.writeFileSync('README.md', readme);
+            }
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --staged --quiet || git commit -m "chore: guestbook signed by ${{ github.event.issue.user.login }}"
+          git push
+
+      - name: Close issue with thank you
+        uses: actions/github-script@v7
+        with:
+          script: |
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body: `Thanks for signing the guestbook, @${context.payload.issue.user.login}! 🎉\n\nYour name has been added to the README. Check it out on my [profile page](https://github.com/jasonmatthewsuhari)!`
+            });
+            await github.rest.issues.update({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              state: 'closed'
+            });

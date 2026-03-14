@@ -1,0 +1,27 @@
+name: Sign the Guestbook
+description: Leave your mark on Jason's README!
+title: "[GUESTBOOK] Signing the guestbook!"
+labels: ["guestbook"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Welcome to the Guestbook!
+        Thanks for stopping by! Leave a message below and your name will be added to my README.
+
+  - type: textarea
+    id: message
+    attributes:
+      label: Your Message
+      description: Say hi, leave a joke, or just let me know you were here!
+      placeholder: "Hey Jason! Cool README. The overengineering is *chef's kiss*."
+    validations:
+      required: true
+
+  - type: input
+    id: favorite
+    attributes:
+      label: Favorite part of the README? (optional)
+      placeholder: "The neofetch dashboard / the chess board / the easter eggs"
+    validations:
+      required: false
