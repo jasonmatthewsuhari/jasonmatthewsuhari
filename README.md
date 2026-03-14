@@ -58,12 +58,6 @@ Despite my profile picture making me look like I run three MLMs in my sleep, I d
 
 <br><br>
 
-<a href="https://jasonmatthewsuhari.github.io"><img src="https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=000" /></a>&nbsp;
-<a href="https://medium.com/@jasonmatthewsuhari"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/jason-matthew-suhari-780664213/"><img src="https://img.shields.io/badge/LinkedIn-0072B2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
-<a href="https://www.instagram.com/jasonmatthewsuhari/"><img src="https://img.shields.io/badge/Instagram-D55E00?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;
-<a href="https://x.com/jasonmatthews_"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>&nbsp;
-<a href="https://linktr.ee/jasonmatthewsuhari"><img src="https://img.shields.io/badge/LinkTree-009E73?style=for-the-badge&logo=linktree&logoColor=white" /></a>
 
 </div>
 
