@@ -167,7 +167,14 @@ Despite my profile picture making me look like I run three MLMs in my sleep, I d
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jasonmatthewsuhari&show_icons=true&theme=gruvbox&hide_border=true&bg_color=00000000&title_color=FFFFFF&icon_color=56B4E9&text_color=FFFFFF&ring_color=FFFFFF" alt="GitHub Stats" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=jasonmatthewsuhari&theme=crt&screen_effect=true&include_all_commits=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=jasonmatthewsuhari&theme=summer&screen_effect=true&include_all_commits=true" />
+  <img alt="Pixel GitHub Stats" src="https://pixel-profile.vercel.app/api/github-stats?username=jasonmatthewsuhari&theme=crt&screen_effect=true&include_all_commits=true" width="75%" />
+</picture>
+
+<br><br>
+
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonmatthewsuhari&layout=compact&theme=gruvbox&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&langs_count=10" alt="Top Languages" />
 
 <br>
