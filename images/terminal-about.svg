@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 500" width="840" height="500">
+  <defs>
+    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#282828"/>
+      <stop offset="100%" style="stop-color:#3c3836"/>
+    </linearGradient>
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#E69F00"/>
+      <stop offset="50%" style="stop-color:#D55E00"/>
+      <stop offset="100%" style="stop-color:#CC79A7"/>
+    </linearGradient>
+    <clipPath id="roundedClip">
+      <rect x="0" y="0" width="840" height="500" rx="14"/>
+    </clipPath>
+  </defs>
+
+  <style>
+    .bg { fill: #1d2021; }
+    .titlebar-bg { fill: url(#titleGrad); }
+    .border-rect { fill: none; stroke: url(#borderGrad); stroke-width: 2; }
+    .dot-close { fill: #fb4934; }
+    .dot-min { fill: #fabd2f; }
+    .dot-max { fill: #b8bb26; }
+    .title-text { font-family: ui-monospace, 'Cascadia Code', 'Fira Code', 'JetBrains Mono', 'SF Mono', Menlo, Consolas, monospace; fill: #a89984; font-size: 12.5px; }
+    .t { font-family: ui-monospace, 'Cascadia Code', 'Fira Code', 'JetBrains Mono', 'SF Mono', Menlo, Consolas, monospace; font-size: 14px; fill: #ebdbb2; }
+    .prompt-user { fill: #b8bb26; }
+    .prompt-sep { fill: #ebdbb2; }
+    .prompt-dir { fill: #83a598; }
+    .key { fill: #E69F00; }
+    .val { fill: #ebdbb2; }
+    .str { fill: #b8bb26; }
+    .list-dash { fill: #D55E00; }
+    .list-val { fill: #ebdbb2; }
+    .comment { fill: #928374; font-style: italic; }
+    .accent { fill: #56B4E9; }
+    .pink { fill: #CC79A7; }
+
+    @media (prefers-color-scheme: light) {
+      .bg { fill: #fbf1c7; }
+      .titlebar-bg { fill: #ebdbb2; }
+      .title-text { fill: #7c6f64; }
+      .t { fill: #3c3836; }
+      .prompt-user { fill: #79740e; }
+      .prompt-sep { fill: #3c3836; }
+      .prompt-dir { fill: #076678; }
+      .key { fill: #b57614; }
+      .val { fill: #3c3836; }
+      .str { fill: #79740e; }
+      .list-dash { fill: #af3a03; }
+      .list-val { fill: #3c3836; }
+      .comment { fill: #928374; }
+      .accent { fill: #076678; }
+      .pink { fill: #8f3f71; }
+    }
+  </style>
+
+  <g clip-path="url(#roundedClip)">
+    <!-- Background -->
+    <rect class="bg" x="0" y="0" width="840" height="500" rx="14"/>
+
+    <!-- Title bar -->
+    <rect class="titlebar-bg" x="0" y="0" width="840" height="38"/>
+    <line x1="0" y1="38" x2="840" y2="38" stroke="#504945" stroke-width="1"/>
+
+    <!-- Traffic light dots -->
+    <circle class="dot-close" cx="22" cy="19" r="6.5"/>
+    <circle class="dot-min" cx="44" cy="19" r="6.5"/>
+    <circle class="dot-max" cx="66" cy="19" r="6.5"/>
+
+    <!-- Title bar text -->
+    <text class="title-text" x="420" y="23" text-anchor="middle">jason@github — bash — 80x24</text>
+  </g>
+
+  <!-- Border -->
+  <rect class="border-rect" x="1" y="1" width="838" height="498" rx="14"/>
+
+  <!-- Terminal content -->
+  <!-- Prompt -->
+  <text class="t" x="24" y="68">
+    <tspan class="prompt-user">jason@github</tspan><tspan class="prompt-sep">:</tspan><tspan class="prompt-dir">~</tspan><tspan class="prompt-sep">$ </tspan><tspan class="val">cat about.yaml</tspan>
+  </text>
+
+  <!-- YAML content -->
+  <text class="t" x="24" y="98"><tspan class="comment"># who am i</tspan></text>
+
+  <text class="t" x="24" y="120"><tspan class="key">name</tspan><tspan class="prompt-sep">: </tspan><tspan class="str">Jason Matthew Suhari</tspan></text>
+  <text class="t" x="24" y="142"><tspan class="key">location</tspan><tspan class="prompt-sep">: </tspan><tspan class="str">Singapore</tspan><tspan class="comment"> # via Indonesia</tspan></text>
+  <text class="t" x="24" y="164"><tspan class="key">education</tspan><tspan class="prompt-sep">: </tspan><tspan class="str">NUS Data Science &amp; Analytics '27</tspan></text>
+
+  <text class="t" x="24" y="196"><tspan class="comment"># what i do</tspan></text>
+
+  <text class="t" x="24" y="218"><tspan class="key">roles</tspan><tspan class="prompt-sep">:</tspan></text>
+  <text class="t" x="24" y="240"><tspan class="list-dash">  - </tspan><tspan class="list-val">Data Scientist</tspan></text>
+  <text class="t" x="24" y="262"><tspan class="list-dash">  - </tspan><tspan class="list-val">Indie Game Developer</tspan></text>
+  <text class="t" x="24" y="284"><tspan class="list-dash">  - </tspan><tspan class="list-val">Pixel Artist</tspan></text>
+  <text class="t" x="24" y="306"><tspan class="list-dash">  - </tspan><tspan class="list-val">Technical Writer</tspan></text>
+
+  <text class="t" x="24" y="338"><tspan class="key">currently_building</tspan><tspan class="prompt-sep">:</tspan></text>
+  <text class="t" x="24" y="360"><tspan class="list-dash">  - </tspan><tspan class="list-val">AI-powered Godot tooling</tspan></text>
+  <text class="t" x="24" y="382"><tspan class="list-dash">  - </tspan><tspan class="list-val">Kaggle competition solutions</tspan></text>
+  <text class="t" x="24" y="404"><tspan class="list-dash">  - </tspan><tspan class="list-val">Whatever hackathon is next</tspan></text>
+
+  <text class="t" x="24" y="436"><tspan class="comment"># fun facts: aircon enjoyer | 8+ cuisines | chess enthusiast</tspan></text>
+  <text class="t" x="24" y="458"><tspan class="comment"># does NOT run three MLMs (despite what the pfp suggests)</tspan></text>
+
+  <!-- Blinking cursor -->
+  <text class="t" x="24" y="486">
+    <tspan class="prompt-user">jason@github</tspan><tspan class="prompt-sep">:</tspan><tspan class="prompt-dir">~</tspan><tspan class="prompt-sep">$ </tspan><tspan class="accent">█</tspan>
+  </text>
+
+  <!-- Cursor blink animation -->
+  <style>
+    @keyframes blink { 0%, 49% { opacity: 1; } 50%, 100% { opacity: 0; } }
+    .accent { animation: blink 1.2s infinite; }
+  </style>
+</svg>
