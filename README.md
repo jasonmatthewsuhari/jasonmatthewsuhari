@@ -195,3 +195,4 @@ Despite my profile picture making me look like I run three MLMs in my sleep, I d
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=24&fontColor=000000&animation=fadeIn&fontAlignY=70" width="100%" />
 
 </div>
+
