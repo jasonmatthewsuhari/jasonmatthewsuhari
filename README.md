@@ -1,7 +1,7 @@
 <!-- 🥚 EASTER EGG 1/7: You found the first one! There are 6 more hidden in this README. Good luck. -->
 <img src="images/top-banner.png" width="100%">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E69F00,50:D55E00,100:CC79A7&height=60&section=header&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=60&section=header&animation=twinkling" width="100%" />
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- ░░░░░░░░░░░░░░░░░░ LANGUAGE SELECTOR ░░░░░░░░░░░░░░░░░░░░░░ -->
@@ -9,25 +9,25 @@
 
 <div align="center">
 
-<a href="README.md"><img src="https://img.shields.io/badge/-English-E69F00?style=flat-square" /></a>
+<a href="README.md"><img src="https://img.shields.io/badge/-English-FFFFFF?style=flat-square&logoColor=000" /></a>
 <a href="alt_readme/README_ID.md"><img src="https://img.shields.io/badge/-Bahasa%20Indonesia-D55E00?style=flat-square" /></a>
 <a href="alt_readme/README_CN.md"><img src="https://img.shields.io/badge/-中文-CC79A7?style=flat-square" /></a>
 <a href="alt_readme/README_FR.md"><img src="https://img.shields.io/badge/-Français-0072B2?style=flat-square" /></a>
 <a href="README.md"><img src="https://img.shields.io/badge/-日本語-56B4E9?style=flat-square" /></a>
 <a href="README.md"><img src="https://img.shields.io/badge/-한국어-009E73?style=flat-square" /></a>
-<a href="README.md"><img src="https://img.shields.io/badge/-Español-E69F00?style=flat-square" /></a>
+<a href="README.md"><img src="https://img.shields.io/badge/-Español-FFFFFF?style=flat-square&logoColor=000" /></a>
 <a href="README.md"><img src="https://img.shields.io/badge/-Português-D55E00?style=flat-square" /></a>
 <a href="README.md"><img src="https://img.shields.io/badge/-Deutsch-CC79A7?style=flat-square" /></a>
 <a href="README.md"><img src="https://img.shields.io/badge/-Italiano-0072B2?style=flat-square" /></a>
 <a href="README.md"><img src="https://img.shields.io/badge/-Русский-56B4E9?style=flat-square" /></a>
 <a href="README.md"><img src="https://img.shields.io/badge/-العربية-009E73?style=flat-square" /></a>
-<a href="README.md"><img src="https://img.shields.io/badge/-हिन्दी-E69F00?style=flat-square" /></a>
+<a href="README.md"><img src="https://img.shields.io/badge/-हिन्दी-FFFFFF?style=flat-square&logoColor=000" /></a>
 <a href="README.md"><img src="https://img.shields.io/badge/-ไทย-D55E00?style=flat-square" /></a>
 <a href="README.md"><img src="https://img.shields.io/badge/-Tiếng%20Việt-CC79A7?style=flat-square" /></a>
 <a href="README.md"><img src="https://img.shields.io/badge/-Nederlands-0072B2?style=flat-square" /></a>
 <a href="README.md"><img src="https://img.shields.io/badge/-Polski-56B4E9?style=flat-square" /></a>
 <a href="README.md"><img src="https://img.shields.io/badge/-Türkçe-009E73?style=flat-square" /></a>
-<a href="README.md"><img src="https://img.shields.io/badge/-Svenska-E69F00?style=flat-square" /></a>
+<a href="README.md"><img src="https://img.shields.io/badge/-Svenska-FFFFFF?style=flat-square&logoColor=000" /></a>
 <a href="README.md"><img src="https://img.shields.io/badge/-Tagalog-D55E00?style=flat-square" /></a>
 
 </div>
@@ -40,11 +40,11 @@
 
 <br>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=E69F00&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=100&lines=%F0%9F%91%8B+Hey%2C+I'm+Jason!;Data+Scientist+%7C+Game+Dev+%7C+Pixel+Artist;NUS+DSA+'27+%F0%9F%87%B8%F0%9F%87%AC+%E2%86%90+%F0%9F%87%AE%F0%9F%87%A9" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=100&lines=%F0%9F%91%8B+Hey%2C+I'm+Jason!;Data+Scientist+%7C+Game+Dev+%7C+Pixel+Artist;NUS+DSA+'27+%F0%9F%87%B8%F0%9F%87%AC+%E2%86%90+%F0%9F%87%AE%F0%9F%87%A9" alt="Typing SVG" /></a>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=jasonmatthewsuhari&label=Profile%20Views&color=E69F00&style=flat-square" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=jasonmatthewsuhari&label=Profile%20Views&color=FFFFFF&style=flat-square" alt="Profile Views" />
 &nbsp;
 <img src="https://img.shields.io/github/followers/jasonmatthewsuhari?label=Followers&style=flat-square&color=56B4E9" alt="Followers" />
 &nbsp;
@@ -79,7 +79,7 @@ Despite my profile picture making me look like I run three MLMs in my sleep, I d
 
 <!-- 🥚 EASTER EGG 3/7: The terminal has a blinking cursor. It's CSS-animated inside an SVG. We live in the future. -->
 
-<a href="https://jasonmatthewsuhari.github.io"><img src="https://img.shields.io/badge/Portfolio-E69F00?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>&nbsp;
+<a href="https://jasonmatthewsuhari.github.io"><img src="https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=000" /></a>&nbsp;
 <a href="https://medium.com/@jasonmatthewsuhari"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/jason-matthew-suhari-780664213/"><img src="https://img.shields.io/badge/LinkedIn-0072B2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
 <a href="https://www.instagram.com/jasonmatthewsuhari/"><img src="https://img.shields.io/badge/Instagram-D55E00?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;
@@ -90,7 +90,7 @@ Despite my profile picture making me look like I run three MLMs in my sleep, I d
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E69F00,50:D55E00,100:CC79A7&height=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=2" width="100%" />
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- ░░░░░░░░░░░░░░░░░░░░░ TECH STACK ░░░░░░░░░░░░░░░░░░░░░░░░░ -->
@@ -118,7 +118,7 @@ Despite my profile picture making me look like I run three MLMs in my sleep, I d
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E69F00,50:D55E00,100:CC79A7&height=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=2" width="100%" />
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- ░░░░░░░░░░░░░░░░░░░░ PROJECTS ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
@@ -131,31 +131,31 @@ Despite my profile picture making me look like I run three MLMs in my sleep, I d
 <div align="center">
 
 <a href="https://github.com/jasonmatthewsuhari/godot-mcp">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=jasonmatthewsuhari&repo=godot-mcp&theme=gruvbox&hide_border=true&bg_color=00000000&title_color=E69F00&icon_color=56B4E9&text_color=FFFFFF" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=jasonmatthewsuhari&repo=godot-mcp&theme=gruvbox&hide_border=true&bg_color=00000000&title_color=FFFFFF&icon_color=56B4E9&text_color=FFFFFF" />
 </a>&nbsp;
 <a href="https://github.com/jasonmatthewsuhari/source-awakening">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=jasonmatthewsuhari&repo=source-awakening&theme=gruvbox&hide_border=true&bg_color=00000000&title_color=E69F00&icon_color=56B4E9&text_color=FFFFFF" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=jasonmatthewsuhari&repo=source-awakening&theme=gruvbox&hide_border=true&bg_color=00000000&title_color=FFFFFF&icon_color=56B4E9&text_color=FFFFFF" />
 </a>
 
 <a href="https://github.com/jasonmatthewsuhari/cerebral-gemini-hackathon">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=jasonmatthewsuhari&repo=cerebral-gemini-hackathon&theme=gruvbox&hide_border=true&bg_color=00000000&title_color=E69F00&icon_color=56B4E9&text_color=FFFFFF" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=jasonmatthewsuhari&repo=cerebral-gemini-hackathon&theme=gruvbox&hide_border=true&bg_color=00000000&title_color=FFFFFF&icon_color=56B4E9&text_color=FFFFFF" />
 </a>&nbsp;
 <a href="https://github.com/jasonmatthewsuhari/sds-datathon-25">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=jasonmatthewsuhari&repo=sds-datathon-25&theme=gruvbox&hide_border=true&bg_color=00000000&title_color=E69F00&icon_color=56B4E9&text_color=FFFFFF" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=jasonmatthewsuhari&repo=sds-datathon-25&theme=gruvbox&hide_border=true&bg_color=00000000&title_color=FFFFFF&icon_color=56B4E9&text_color=FFFFFF" />
 </a>
 
 <a href="https://github.com/jasonmatthewsuhari/kaggle">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=jasonmatthewsuhari&repo=kaggle&theme=gruvbox&hide_border=true&bg_color=00000000&title_color=E69F00&icon_color=56B4E9&text_color=FFFFFF" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=jasonmatthewsuhari&repo=kaggle&theme=gruvbox&hide_border=true&bg_color=00000000&title_color=FFFFFF&icon_color=56B4E9&text_color=FFFFFF" />
 </a>&nbsp;
 <a href="https://github.com/jasonmatthewsuhari/jasonmatthewsuhari.github.io">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=jasonmatthewsuhari&repo=jasonmatthewsuhari.github.io&theme=gruvbox&hide_border=true&bg_color=00000000&title_color=E69F00&icon_color=56B4E9&text_color=FFFFFF" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=jasonmatthewsuhari&repo=jasonmatthewsuhari.github.io&theme=gruvbox&hide_border=true&bg_color=00000000&title_color=FFFFFF&icon_color=56B4E9&text_color=FFFFFF" />
 </a>
 
 </div>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E69F00,50:D55E00,100:CC79A7&height=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=2" width="100%" />
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- ░░░░░░░░░░░░░░░░░░ GITHUB ANALYTICS ░░░░░░░░░░░░░░░░░░░░░░ -->
@@ -167,16 +167,16 @@ Despite my profile picture making me look like I run three MLMs in my sleep, I d
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jasonmatthewsuhari&show_icons=true&theme=gruvbox&hide_border=true&bg_color=00000000&title_color=E69F00&icon_color=56B4E9&text_color=FFFFFF&ring_color=E69F00" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonmatthewsuhari&layout=compact&theme=gruvbox&hide_border=true&bg_color=00000000&title_color=E69F00&text_color=FFFFFF&langs_count=10" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jasonmatthewsuhari&show_icons=true&theme=gruvbox&hide_border=true&bg_color=00000000&title_color=FFFFFF&icon_color=56B4E9&text_color=FFFFFF&ring_color=FFFFFF" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonmatthewsuhari&layout=compact&theme=gruvbox&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&langs_count=10" alt="Top Languages" />
 
 <br>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=jasonmatthewsuhari&theme=gruvbox&hide_border=true&background=00000000&ring=E69F00&fire=D55E00&currStreakLabel=56B4E9&sideLabels=E69F00&dates=FFFFFF80" alt="GitHub Streak" />
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=jasonmatthewsuhari&theme=gruvbox&hide_border=true&background=00000000&ring=FFFFFF&fire=D55E00&currStreakLabel=56B4E9&sideLabels=FFFFFF&dates=FFFFFF80" alt="GitHub Streak" />
 
 <br>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=jasonmatthewsuhari&theme=gruvbox&hide_border=true&bg_color=00000000&color=E69F00&line=56B4E9&point=D55E00&area=true&area_color=E69F0030" alt="Contribution Graph" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=jasonmatthewsuhari&theme=gruvbox&hide_border=true&bg_color=00000000&color=FFFFFF&line=56B4E9&point=D55E00&area=true&area_color=FFFFFF20" alt="Contribution Graph" />
 
 <br>
 
@@ -186,35 +186,11 @@ Despite my profile picture making me look like I run three MLMs in my sleep, I d
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E69F00,50:D55E00,100:CC79A7&height=2" width="100%" />
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ░░░░░░░░░░░░░░░░░░░░ GUESTBOOK ░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!-- 🥚 EASTER EGG 6/7: This guestbook is powered by GitHub Issues + Actions. Yes, for a README. -->
-
-## Guestbook
-
-> Leave your mark. Open an issue and your name appears here automatically.
-
-<div align="center">
-
-[![Sign the Guestbook](https://img.shields.io/badge/Sign%20the%20Guestbook-E69F00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jasonmatthewsuhari/jasonmatthewsuhari/issues/new?template=guestbook.yml&title=%5BGUESTBOOK%5D+Signing+the+guestbook!)
-
-</div>
-
-<!-- GUESTBOOK:START -->
-| Name | Date | Message |
-|------|------|---------|
-| *Be the first to sign!* | | *Open an issue to leave your mark* |
-<!-- GUESTBOOK:END -->
-
-<br>
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- ░░░░░░░░░░░░░░░░░░░░░ QUOTE ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!-- 🥚 EASTER EGG 6/7: You're still here? Impressive dedication. -->
 
 <div align="center">
 
@@ -246,7 +222,7 @@ Despite my profile picture making me look like I run three MLMs in my sleep, I d
      Achievement Unlocked: README Archaeologist
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:CC79A7,50:D55E00,100:E69F00&height=120&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=24&fontColor=FFFFFF&animation=fadeIn&fontAlignY=70" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=24&fontColor=000000&animation=fadeIn&fontAlignY=70" width="100%" />
 
 *If you're reading the source code, I respect your dedication.*
 
