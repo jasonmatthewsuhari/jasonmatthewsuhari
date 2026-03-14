@@ -1,7 +1,4 @@
-<!-- 🥚 EASTER EGG 1/7: You found the first one! There are 6 more hidden in this README. Good luck. -->
 <img src="images/top-banner.png" width="100%">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=60&section=header&animation=twinkling" width="100%" />
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- ░░░░░░░░░░░░░░░░░░░░░ HERO SECTION ░░░░░░░░░░░░░░░░░░░░░░░ -->
@@ -12,8 +9,6 @@
 <br>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=100&lines=%F0%9F%91%8B+Hey%2C+I'm+Jason!;Data+Scientist+%7C+Game+Dev+%7C+Pixel+Artist;NUS+DSA+'27+%F0%9F%87%B8%F0%9F%87%AC+%E2%86%90+%F0%9F%87%AE%F0%9F%87%A9" alt="Typing SVG" /></a>
-
-<!-- 🥚 EASTER EGG 2/7: This README has more badges than a Boy Scout troop leader. -->
 
 <br>
 
@@ -63,8 +58,6 @@ Despite my profile picture making me look like I run three MLMs in my sleep, I d
 
 <br><br>
 
-<!-- 🥚 EASTER EGG 3/7: The terminal has a blinking cursor. It's CSS-animated inside an SVG. We live in the future. -->
-
 <a href="https://jasonmatthewsuhari.github.io"><img src="https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=000" /></a>&nbsp;
 <a href="https://medium.com/@jasonmatthewsuhari"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/jason-matthew-suhari-780664213/"><img src="https://img.shields.io/badge/LinkedIn-0072B2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
@@ -110,8 +103,6 @@ Despite my profile picture making me look like I run three MLMs in my sleep, I d
 <!-- ░░░░░░░░░░░░░░░░░░░░ PROJECTS ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!-- 🥚 EASTER EGG 4/7: These pin cards auto-update. The future is lazy and I love it. -->
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;Featured Projects
 
 <div align="center">
@@ -147,8 +138,6 @@ Despite my profile picture making me look like I run three MLMs in my sleep, I d
 <!-- ░░░░░░░░░░░░░░░░░░ GITHUB ANALYTICS ░░░░░░░░░░░░░░░░░░░░░░ -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!-- 🥚 EASTER EGG 5/7: If all these stats cards loaded at once, your browser would file a restraining order. -->
-
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"> &nbsp;GitHub Analytics
 
 <div align="center">
@@ -173,8 +162,6 @@ Despite my profile picture making me look like I run three MLMs in my sleep, I d
 <!-- ░░░░░░░░░░░░░░░░░░░░░ QUOTE ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!-- 🥚 EASTER EGG 6/7: You're still here? Impressive dedication. -->
-
 <div align="center">
 
 *"I didn't come this far, just to come this far."*
@@ -189,7 +176,7 @@ Despite my profile picture making me look like I run three MLMs in my sleep, I d
 
 <br>
 
-<!-- 🥚 EASTER EGG 7/7: You found all 7. You are now an honorary overengineer.
+<!-- 🥚 EASTER EGG: what are u doing here dawg
 
           ___________
          '._==_==_=_.'
@@ -206,7 +193,5 @@ Despite my profile picture making me look like I run three MLMs in my sleep, I d
 -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=24&fontColor=000000&animation=fadeIn&fontAlignY=70" width="100%" />
-
-*If you're reading the source code, I respect your dedication.*
 
 </div>
