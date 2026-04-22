@@ -6,8 +6,6 @@
      are snapshots and do not auto-update. -->
 
 
-<!-- EGG5 🥚 egg 5 of 7 — selamat datang. lima telur sudah ditemukan. next stop: ../scripts/joke.py (find the fossil comment) -->
-
 <div align="center">
 
 <br>

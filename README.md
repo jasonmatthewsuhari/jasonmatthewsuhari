@@ -223,36 +223,14 @@ Despite my profile picture making me look like I run three MLMs in my sleep, I d
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=2" width="100%" />
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                   CONTRIBUTION GRAPH TRIPLE-STACK                   -->
+<!--                     3D CONTRIBUTION CALENDAR                        -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"> &nbsp;Contribution Graph — Snake, Pacman, Isometric
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"> &nbsp;Contribution Skyline
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/jasonmatthewsuhari/jasonmatthewsuhari/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jasonmatthewsuhari/jasonmatthewsuhari/output/github-snake.svg" />
-  <img alt="github snake" src="https://raw.githubusercontent.com/jasonmatthewsuhari/jasonmatthewsuhari/output/github-snake.svg" />
-</picture>
-
-<br><br>
-
-<details>
-<summary><b>&gt; ./swap_mode.sh pacman</b> <sub>(click to summon pacman)</sub></summary>
-<br>
-<img src="https://raw.githubusercontent.com/abozanona/pacman-contribution-graph/main/pacman-contribution-graph.svg?palette=github-dark&ghuser=jasonmatthewsuhari" alt="pacman contribution graph" />
-<br>
-<sub>pacman chases the greens. ghosts chase the pacman. the ghosts are deadlines.</sub>
-</details>
-
-<br>
-
-<details>
-<summary><b>&gt; ./view_mode.sh isometric</b> <sub>(3D skyline)</sub></summary>
-<br>
-<img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3d contribution calendar"/>
-</details>
+<img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3d contribution calendar" width="100%"/>
 
 </div>
 
@@ -313,15 +291,6 @@ Despite my profile picture making me look like I run three MLMs in my sleep, I d
 
 </details>
 
-<details>
-<summary><b>&gt; ./blog.sh</b> <sub>(latest posts from Medium)</sub></summary>
-
-<!-- BLOG-POST-LIST:START -->
-- [The Great Blunder of “Study Techniques”](https://medium.com/@jasonmatthewsuhari/the-great-blunder-of-study-techniques-507d5f684e73?source=rss-4c7070164f1c------2) — *Mon Mar 18 2024 9:09 AM*
-- [The Deadline Dilemma: How Indefinite Tasks Kill Your To-Do List](https://medium.com/@jasonmatthewsuhari/the-deadline-dilemma-how-indefinite-tasks-kill-your-to-do-list-7e25ed5af087?source=rss-4c7070164f1c------2) — *Sun Mar 17 2024 2:49 PM*<!-- BLOG-POST-LIST:END -->
-
-</details>
-
 <br>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
@@ -337,39 +306,3 @@ Despite my profile picture making me look like I run three MLMs in my sleep, I d
 <br>
 
 <img src="images/matrix-footer.svg" width="100%" alt="matrix rain footer"/>
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                            FOOTER                                   -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<br>
-
-<!-- 🥚 EASTER EGG: what are u doing here dawg
-
-          ___________
-         '._==_==_=_.'
-         .-\:      /-.
-        | (|:.     |) |
-         '-|:.     |-'
-           \::.    /
-            '::. .'
-              ) (
-            _.' '._
-           '-------'
-
-     Achievement Unlocked: README Archaeologist
--->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=24&fontColor=000000&animation=fadeIn&fontAlignY=70" width="100%" />
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--  🗝️  THE EGG HUNT — 7 hidden across this profile.                    -->
-<!--  egg 1 of 7: check images/.eggs/01.svg                              -->
-<!--  if you found them all, DM me — you've earned a sticker.            -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<p style="color:#1d2021;background-color:#1d2021;font-size:1px;">🗝️ THE EGG HUNT: egg 1/7 — check images/.eggs/01.svg. there are 6 more.</p>

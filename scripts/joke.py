@@ -1,9 +1,5 @@
 #!/usr/bin/env python3
-"""Pick the joke-of-the-day deterministically and rewrite the JOKE block in README.md.
-
-# 🥚 EGG 6/7 fossil comment: half a decade from now, the only proof you were here
-# will be a git blame line and a joke. egg 6 lives at images/.eggs/06.svg
-"""
+"""Pick the joke-of-the-day deterministically and rewrite the JOKE block in README.md."""
 from __future__ import annotations
 
 import argparse
