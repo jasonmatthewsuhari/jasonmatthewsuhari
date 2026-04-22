@@ -1,0 +1,43 @@
+{
+  "_comment": "keyed by day-or-group + hour-range. script picks most-specific match, then randomly from the list.",
+  "default": {
+    "0-1":  ["🦉 night owl mode — writing code that won't make sense tomorrow", "🛌 should be asleep, isn't", "🌙 3am debugging session, feat. regret", "🎧 lofi hip-hop radio, 5 tabs, one thought"],
+    "2-5":  ["🛌 asleep (hopefully)", "💤 REM cycle deep-diving", "😴 knocked out", "🌌 dreaming about pointer bugs"],
+    "6-7":  ["☕ first coffee, don't talk to me yet", "🪥 brushing teeth, thinking about tech debt", "🌅 staring at the ceiling negotiating with my alarm"],
+    "8-9":  ["🚇 on the MRT, headphones in", "🍞 breakfast speedrun", "💻 opening the laptop with malicious intent"],
+    "10-11":["👨‍💻 deep work — do not disturb", "📖 reading docs that didn't need to be this long", "🤔 staring at a PR wondering who wrote this (it was me)"],
+    "12-13":["🍜 lunch break — probably laksa", "🥘 nasi campur somewhere", "🍱 deciding between 4 places I eat at every week"],
+    "14-15":["📊 elbows-deep in a notebook", "🧠 second coffee hitting", "👨‍💻 coding with the kind of focus that scares people"],
+    "16-17":["🎮 playtesting a prototype", "📝 writing a blog draft I'll never publish", "☕ third coffee, committing war crimes in git"],
+    "18-19":["🍜 hawker dinner — zi char or bust", "🥟 dumplings and existentialism", "🍲 eating something that earned its MSG"],
+    "20-21":["🎨 pixel art — nothing matches tomorrow", "🎮 godot after dark", "🎧 cooking to a lofi playlist"],
+    "22-23":["👨‍💻 late-night commits, zero remorse", "🦇 the witching hour, terminal glow on the face", "📚 reading papers I won't remember"]
+  },
+  "monday": {
+    "9-11":  ["📚 probably in CS3244 lecture", "📓 taking notes that will never be re-read", "🎓 attending class (camera off)"],
+    "14-16": ["🧪 data science lab — spreadsheet of shame", "📊 tutorial, pretending I did the pre-reading"]
+  },
+  "tuesday": {
+    "10-12": ["🎓 in a math module trying not to cry", "📐 proof that I regret choosing DSA"],
+    "16-18": ["👥 project meeting — someone will mention 'deliverables'"]
+  },
+  "wednesday": {
+    "13-15": ["📚 back-to-back tutorials", "🏫 on campus, hunting for an empty study room"]
+  },
+  "thursday": {
+    "18-20": ["👥 hackathon ideation call", "🧑‍💻 pair programming with past-me"]
+  },
+  "friday": {
+    "17-19": ["🍜 week-end hawker treat", "🎉 last-class euphoria"],
+    "21-23": ["🎮 games night", "🍻 rare social event, will bail early"]
+  },
+  "saturday": {
+    "10-13": ["🛒 groceries + an unplanned bubble tea", "🍳 cooking something ambitious"],
+    "14-18": ["🏋️ gym (allegedly)", "🎨 long pixel-art session"],
+    "20-23": ["🎮 local multiplayer with the squad", "🎬 movie night", "🧑‍🍳 late-night kitchen experiment"]
+  },
+  "sunday": {
+    "10-14": ["☕ slow brunch with a book", "🛋️ horizontal, watching a studio ghibli film for the Nth time"],
+    "15-19": ["🗓️ dreading Monday, planning the week", "🧹 tidying my desk — peak productivity energy"]
+  }
+}

@@ -1,5 +1,11 @@
 <img src="../images/top-banner.png" width="100%">
 
+<!-- ⚠️  STATIC TRANSLATION — the English [README.md](../README.md) has the live widgets
+     (animated CRT banner, tamagotchi pet, RPG sheet, time-aware NOW ticker,
+     live SG weather card, joke-of-the-day, easter-egg chain). these pages
+     are snapshots and do not auto-update. -->
+
+
 <div align="center">
 
 <br>

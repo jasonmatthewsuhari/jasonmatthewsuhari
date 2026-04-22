@@ -1,0 +1,183 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 180" width="1200" height="180" role="img" aria-label="matrix-rain-footer">
+  <title>matrix rain - occasionally spells JASON</title>
+  <defs>
+    <linearGradient id="fade" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%"   stop-color="#000000" stop-opacity="1"/>
+      <stop offset="15%"  stop-color="#000000" stop-opacity="0"/>
+      <stop offset="85%"  stop-color="#000000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="1"/>
+    </linearGradient>
+    <filter id="mglow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="0.8" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="area"><rect x="0" y="0" width="1200" height="180"/></clipPath>
+  </defs>
+
+  <rect width="1200" height="180" fill="#000000"/>
+
+  <g clip-path="url(#area)" font-family="'MS Gothic','Yu Gothic','Noto Sans JP',monospace" font-size="16" filter="url(#mglow)">
+    <!-- 30 columns, each offset by 40px; staggered start, varied speed -->
+    <!-- column template: two stacked copies of the same glyph string, translated -->
+    <g transform="translate(20,0)">
+      <g><text x="0" y="0" fill="#b8bb26" opacity="0.85">ｱ</text><text x="0" y="20" fill="#8ec07c" opacity="0.6">ｶ</text><text x="0" y="40" fill="#6bba5f" opacity="0.55">ﾂ</text><text x="0" y="60" fill="#4a9644" opacity="0.5">ﾐ</text><text x="0" y="80" fill="#307028" opacity="0.45">ﾊ</text><text x="0" y="100" fill="#1f4d1a" opacity="0.35">ﾜ</text><text x="0" y="120" fill="#153510" opacity="0.25">ｼ</text>
+        <animateTransform attributeName="transform" type="translate" values="0,-140;0,180" dur="4.2s" repeatCount="indefinite"/>
+      </g>
+    </g>
+    <g transform="translate(60,0)">
+      <g><text x="0" y="0" fill="#b8bb26" opacity="0.85">ﾝ</text><text x="0" y="20" fill="#8ec07c" opacity="0.6">ｷ</text><text x="0" y="40" fill="#6bba5f" opacity="0.55">ﾀ</text><text x="0" y="60" fill="#4a9644" opacity="0.5">ﾞ</text><text x="0" y="80" fill="#307028" opacity="0.45">3</text><text x="0" y="100" fill="#1f4d1a" opacity="0.35">ﾈ</text>
+        <animateTransform attributeName="transform" type="translate" values="0,-120;0,180" dur="3.1s" begin="-1.4s" repeatCount="indefinite"/>
+      </g>
+    </g>
+    <g transform="translate(100,0)">
+      <g><text x="0" y="0" fill="#b8bb26" opacity="0.9">ﾘ</text><text x="0" y="20" fill="#8ec07c" opacity="0.65">ｿ</text><text x="0" y="40" fill="#6bba5f">ｶ</text><text x="0" y="60" fill="#4a9644">ﾑ</text><text x="0" y="80" fill="#307028">Z</text><text x="0" y="100" fill="#1f4d1a">ﾏ</text><text x="0" y="120" fill="#153510" opacity="0.3">ﾁ</text>
+        <animateTransform attributeName="transform" type="translate" values="0,-140;0,180" dur="5.3s" begin="-3.2s" repeatCount="indefinite"/>
+      </g>
+    </g>
+    <g transform="translate(140,0)">
+      <g><text x="0" y="0" fill="#b8bb26">ﾇ</text><text x="0" y="20" fill="#8ec07c">ﾂ</text><text x="0" y="40" fill="#6bba5f">ﾖ</text><text x="0" y="60" fill="#4a9644">7</text><text x="0" y="80" fill="#307028">ﾌ</text><text x="0" y="100" fill="#1f4d1a">ｾ</text>
+        <animateTransform attributeName="transform" type="translate" values="0,-120;0,180" dur="3.7s" begin="-0.8s" repeatCount="indefinite"/>
+      </g>
+    </g>
+    <g transform="translate(180,0)">
+      <g><text x="0" y="0" fill="#b8bb26">ﾗ</text><text x="0" y="20" fill="#8ec07c">ｸ</text><text x="0" y="40" fill="#6bba5f">ｦ</text><text x="0" y="60" fill="#4a9644">X</text><text x="0" y="80" fill="#307028">ｱ</text><text x="0" y="100" fill="#1f4d1a">ﾑ</text>
+        <animateTransform attributeName="transform" type="translate" values="0,-120;0,180" dur="4.8s" begin="-2.1s" repeatCount="indefinite"/>
+      </g>
+    </g>
+    <g transform="translate(220,0)">
+      <g><text x="0" y="0" fill="#b8bb26">ｦ</text><text x="0" y="20" fill="#8ec07c">ﾆ</text><text x="0" y="40" fill="#6bba5f">ｲ</text><text x="0" y="60" fill="#4a9644">ﾊ</text><text x="0" y="80" fill="#307028">ｺ</text><text x="0" y="100" fill="#1f4d1a">ｸ</text>
+        <animateTransform attributeName="transform" type="translate" values="0,-140;0,180" dur="3.4s" begin="-0.4s" repeatCount="indefinite"/>
+      </g>
+    </g>
+    <g transform="translate(260,0)">
+      <g><text x="0" y="0" fill="#b8bb26">ﾂ</text><text x="0" y="20" fill="#8ec07c">ｵ</text><text x="0" y="40" fill="#6bba5f">ﾎ</text><text x="0" y="60" fill="#4a9644">ﾈ</text><text x="0" y="80" fill="#307028">ﾊ</text><text x="0" y="100" fill="#1f4d1a">ﾞ</text>
+        <animateTransform attributeName="transform" type="translate" values="0,-120;0,180" dur="4.5s" begin="-2.8s" repeatCount="indefinite"/>
+      </g>
+    </g>
+    <g transform="translate(300,0)">
+      <g><text x="0" y="0" fill="#b8bb26">ｷ</text><text x="0" y="20" fill="#8ec07c">ﾘ</text><text x="0" y="40" fill="#6bba5f">ｰ</text><text x="0" y="60" fill="#4a9644">0</text><text x="0" y="80" fill="#307028">ｦ</text><text x="0" y="100" fill="#1f4d1a">ｽ</text>
+        <animateTransform attributeName="transform" type="translate" values="0,-140;0,180" dur="3.9s" begin="-1.9s" repeatCount="indefinite"/>
+      </g>
+    </g>
+    <g transform="translate(340,0)">
+      <g><text x="0" y="0" fill="#b8bb26">ﾋ</text><text x="0" y="20" fill="#8ec07c">ﾜ</text><text x="0" y="40" fill="#6bba5f">ｲ</text><text x="0" y="60" fill="#4a9644">2</text><text x="0" y="80" fill="#307028">ｱ</text><text x="0" y="100" fill="#1f4d1a">ﾖ</text>
+        <animateTransform attributeName="transform" type="translate" values="0,-120;0,180" dur="5.1s" begin="-3.7s" repeatCount="indefinite"/>
+      </g>
+    </g>
+    <g transform="translate(380,0)">
+      <g><text x="0" y="0" fill="#b8bb26">ｹ</text><text x="0" y="20" fill="#8ec07c">ﾀ</text><text x="0" y="40" fill="#6bba5f">ｼ</text><text x="0" y="60" fill="#4a9644">ｺ</text><text x="0" y="80" fill="#307028">ﾞ</text><text x="0" y="100" fill="#1f4d1a">ﾌ</text>
+        <animateTransform attributeName="transform" type="translate" values="0,-140;0,180" dur="3.6s" begin="-0.2s" repeatCount="indefinite"/>
+      </g>
+    </g>
+    <g transform="translate(420,0)">
+      <g><text x="0" y="0" fill="#b8bb26">ｿ</text><text x="0" y="20" fill="#8ec07c">ﾇ</text><text x="0" y="40" fill="#6bba5f">ｴ</text><text x="0" y="60" fill="#4a9644">Z</text><text x="0" y="80" fill="#307028">ｻ</text><text x="0" y="100" fill="#1f4d1a">ｷ</text>
+        <animateTransform attributeName="transform" type="translate" values="0,-120;0,180" dur="4.1s" begin="-2.4s" repeatCount="indefinite"/>
+      </g>
+    </g>
+    <g transform="translate(460,0)">
+      <g><text x="0" y="0" fill="#b8bb26">ﾈ</text><text x="0" y="20" fill="#8ec07c">ｺ</text><text x="0" y="40" fill="#6bba5f">ﾀ</text><text x="0" y="60" fill="#4a9644">ﾚ</text><text x="0" y="80" fill="#307028">ｶ</text><text x="0" y="100" fill="#1f4d1a">ﾅ</text>
+        <animateTransform attributeName="transform" type="translate" values="0,-140;0,180" dur="4.9s" begin="-1.1s" repeatCount="indefinite"/>
+      </g>
+    </g>
+    <g transform="translate(500,0)">
+      <g><text x="0" y="0" fill="#b8bb26">ﾒ</text><text x="0" y="20" fill="#8ec07c">ｸ</text><text x="0" y="40" fill="#6bba5f">ﾘ</text><text x="0" y="60" fill="#4a9644">ﾊ</text><text x="0" y="80" fill="#307028">ｽ</text><text x="0" y="100" fill="#1f4d1a">5</text>
+        <animateTransform attributeName="transform" type="translate" values="0,-120;0,180" dur="3.3s" begin="-0.9s" repeatCount="indefinite"/>
+      </g>
+    </g>
+    <g transform="translate(540,0)">
+      <g><text x="0" y="0" fill="#b8bb26">ｶ</text><text x="0" y="20" fill="#8ec07c">ﾓ</text><text x="0" y="40" fill="#6bba5f">ﾋ</text><text x="0" y="60" fill="#4a9644">ﾀ</text><text x="0" y="80" fill="#307028">ﾇ</text><text x="0" y="100" fill="#1f4d1a">ｴ</text>
+        <animateTransform attributeName="transform" type="translate" values="0,-140;0,180" dur="5.4s" begin="-3.4s" repeatCount="indefinite"/>
+      </g>
+    </g>
+    <g transform="translate(580,0)">
+      <g><text x="0" y="0" fill="#b8bb26">ｾ</text><text x="0" y="20" fill="#8ec07c">ﾝ</text><text x="0" y="40" fill="#6bba5f">ｺ</text><text x="0" y="60" fill="#4a9644">8</text><text x="0" y="80" fill="#307028">ｱ</text><text x="0" y="100" fill="#1f4d1a">ﾂ</text>
+        <animateTransform attributeName="transform" type="translate" values="0,-120;0,180" dur="3.8s" begin="-1.6s" repeatCount="indefinite"/>
+      </g>
+    </g>
+    <g transform="translate(620,0)">
+      <g><text x="0" y="0" fill="#b8bb26">ﾉ</text><text x="0" y="20" fill="#8ec07c">ﾐ</text><text x="0" y="40" fill="#6bba5f">ﾁ</text><text x="0" y="60" fill="#4a9644">ｻ</text><text x="0" y="80" fill="#307028">ｶ</text><text x="0" y="100" fill="#1f4d1a">ｳ</text>
+        <animateTransform attributeName="transform" type="translate" values="0,-140;0,180" dur="4.4s" begin="-2.2s" repeatCount="indefinite"/>
+      </g>
+    </g>
+    <g transform="translate(660,0)">
+      <g><text x="0" y="0" fill="#b8bb26">ｹ</text><text x="0" y="20" fill="#8ec07c">ﾙ</text><text x="0" y="40" fill="#6bba5f">ﾀ</text><text x="0" y="60" fill="#4a9644">ｸ</text><text x="0" y="80" fill="#307028">4</text><text x="0" y="100" fill="#1f4d1a">ｶ</text>
+        <animateTransform attributeName="transform" type="translate" values="0,-120;0,180" dur="3.5s" begin="-0.6s" repeatCount="indefinite"/>
+      </g>
+    </g>
+    <g transform="translate(700,0)">
+      <g><text x="0" y="0" fill="#b8bb26">ﾁ</text><text x="0" y="20" fill="#8ec07c">ｻ</text><text x="0" y="40" fill="#6bba5f">ｳ</text><text x="0" y="60" fill="#4a9644">ﾖ</text><text x="0" y="80" fill="#307028">ﾜ</text><text x="0" y="100" fill="#1f4d1a">ｸ</text>
+        <animateTransform attributeName="transform" type="translate" values="0,-140;0,180" dur="5.0s" begin="-3.0s" repeatCount="indefinite"/>
+      </g>
+    </g>
+    <g transform="translate(740,0)">
+      <g><text x="0" y="0" fill="#b8bb26">ﾋ</text><text x="0" y="20" fill="#8ec07c">ｾ</text><text x="0" y="40" fill="#6bba5f">ｻ</text><text x="0" y="60" fill="#4a9644">ﾈ</text><text x="0" y="80" fill="#307028">ﾏ</text><text x="0" y="100" fill="#1f4d1a">ﾀ</text>
+        <animateTransform attributeName="transform" type="translate" values="0,-120;0,180" dur="4.2s" begin="-2.7s" repeatCount="indefinite"/>
+      </g>
+    </g>
+    <g transform="translate(780,0)">
+      <g><text x="0" y="0" fill="#b8bb26">ｸ</text><text x="0" y="20" fill="#8ec07c">ｷ</text><text x="0" y="40" fill="#6bba5f">ﾎ</text><text x="0" y="60" fill="#4a9644">ｺ</text><text x="0" y="80" fill="#307028">ｻ</text><text x="0" y="100" fill="#1f4d1a">ﾆ</text>
+        <animateTransform attributeName="transform" type="translate" values="0,-140;0,180" dur="3.7s" begin="-1.3s" repeatCount="indefinite"/>
+      </g>
+    </g>
+    <g transform="translate(820,0)">
+      <g><text x="0" y="0" fill="#b8bb26">ｾ</text><text x="0" y="20" fill="#8ec07c">ﾅ</text><text x="0" y="40" fill="#6bba5f">ﾞ</text><text x="0" y="60" fill="#4a9644">6</text><text x="0" y="80" fill="#307028">ﾁ</text><text x="0" y="100" fill="#1f4d1a">ｵ</text>
+        <animateTransform attributeName="transform" type="translate" values="0,-120;0,180" dur="4.6s" begin="-0.3s" repeatCount="indefinite"/>
+      </g>
+    </g>
+    <g transform="translate(860,0)">
+      <g><text x="0" y="0" fill="#b8bb26">ﾊ</text><text x="0" y="20" fill="#8ec07c">ﾂ</text><text x="0" y="40" fill="#6bba5f">ｹ</text><text x="0" y="60" fill="#4a9644">ﾁ</text><text x="0" y="80" fill="#307028">ｶ</text><text x="0" y="100" fill="#1f4d1a">X</text>
+        <animateTransform attributeName="transform" type="translate" values="0,-140;0,180" dur="5.2s" begin="-3.5s" repeatCount="indefinite"/>
+      </g>
+    </g>
+    <g transform="translate(900,0)">
+      <g><text x="0" y="0" fill="#b8bb26">ﾏ</text><text x="0" y="20" fill="#8ec07c">ｻ</text><text x="0" y="40" fill="#6bba5f">ｿ</text><text x="0" y="60" fill="#4a9644">ﾂ</text><text x="0" y="80" fill="#307028">ﾎ</text><text x="0" y="100" fill="#1f4d1a">ｳ</text>
+        <animateTransform attributeName="transform" type="translate" values="0,-120;0,180" dur="3.9s" begin="-1.7s" repeatCount="indefinite"/>
+      </g>
+    </g>
+    <g transform="translate(940,0)">
+      <g><text x="0" y="0" fill="#b8bb26">ﾇ</text><text x="0" y="20" fill="#8ec07c">ﾌ</text><text x="0" y="40" fill="#6bba5f">ﾎ</text><text x="0" y="60" fill="#4a9644">ﾑ</text><text x="0" y="80" fill="#307028">ｱ</text><text x="0" y="100" fill="#1f4d1a">9</text>
+        <animateTransform attributeName="transform" type="translate" values="0,-140;0,180" dur="4.3s" begin="-2.9s" repeatCount="indefinite"/>
+      </g>
+    </g>
+    <g transform="translate(980,0)">
+      <g><text x="0" y="0" fill="#b8bb26">ﾊ</text><text x="0" y="20" fill="#8ec07c">ﾞ</text><text x="0" y="40" fill="#6bba5f">ｵ</text><text x="0" y="60" fill="#4a9644">ﾜ</text><text x="0" y="80" fill="#307028">ﾄ</text><text x="0" y="100" fill="#1f4d1a">ｺ</text>
+        <animateTransform attributeName="transform" type="translate" values="0,-120;0,180" dur="3.2s" begin="-0.5s" repeatCount="indefinite"/>
+      </g>
+    </g>
+    <g transform="translate(1020,0)">
+      <g><text x="0" y="0" fill="#b8bb26">ﾆ</text><text x="0" y="20" fill="#8ec07c">ｻ</text><text x="0" y="40" fill="#6bba5f">ﾐ</text><text x="0" y="60" fill="#4a9644">ﾅ</text><text x="0" y="80" fill="#307028">ｷ</text><text x="0" y="100" fill="#1f4d1a">ﾊ</text>
+        <animateTransform attributeName="transform" type="translate" values="0,-140;0,180" dur="5.5s" begin="-3.1s" repeatCount="indefinite"/>
+      </g>
+    </g>
+    <g transform="translate(1060,0)">
+      <g><text x="0" y="0" fill="#b8bb26">ﾛ</text><text x="0" y="20" fill="#8ec07c">ﾈ</text><text x="0" y="40" fill="#6bba5f">ﾉ</text><text x="0" y="60" fill="#4a9644">ﾋ</text><text x="0" y="80" fill="#307028">ﾗ</text><text x="0" y="100" fill="#1f4d1a">Z</text>
+        <animateTransform attributeName="transform" type="translate" values="0,-120;0,180" dur="4.0s" begin="-1.8s" repeatCount="indefinite"/>
+      </g>
+    </g>
+    <g transform="translate(1100,0)">
+      <g><text x="0" y="0" fill="#b8bb26">ﾚ</text><text x="0" y="20" fill="#8ec07c">ｺ</text><text x="0" y="40" fill="#6bba5f">ｻ</text><text x="0" y="60" fill="#4a9644">ﾁ</text><text x="0" y="80" fill="#307028">ｲ</text><text x="0" y="100" fill="#1f4d1a">ﾈ</text>
+        <animateTransform attributeName="transform" type="translate" values="0,-140;0,180" dur="3.4s" begin="-0.7s" repeatCount="indefinite"/>
+      </g>
+    </g>
+    <g transform="translate(1140,0)">
+      <g><text x="0" y="0" fill="#b8bb26">ﾖ</text><text x="0" y="20" fill="#8ec07c">ｹ</text><text x="0" y="40" fill="#6bba5f">ｺ</text><text x="0" y="60" fill="#4a9644">ﾊ</text><text x="0" y="80" fill="#307028">ﾀ</text><text x="0" y="100" fill="#1f4d1a">ｦ</text>
+        <animateTransform attributeName="transform" type="translate" values="0,-120;0,180" dur="4.7s" begin="-2.3s" repeatCount="indefinite"/>
+      </g>
+    </g>
+  </g>
+
+  <!-- JASON reveal: appears briefly, fades, pulses -->
+  <g text-anchor="middle" font-family="ui-monospace,'Fira Code','JetBrains Mono',monospace" font-size="48" font-weight="900" letter-spacing="18">
+    <text x="600" y="108" fill="#b8bb26" opacity="0" filter="url(#mglow)">
+      JASON
+      <animate attributeName="opacity" values="0;0;0;1;1;0;0" keyTimes="0;0.55;0.58;0.62;0.78;0.84;1" dur="14s" begin="2s" repeatCount="indefinite"/>
+    </text>
+    <text x="600" y="108" fill="#ffffff" opacity="0">
+      JASON
+      <animate attributeName="opacity" values="0;0;0;0.8;0.0;0" keyTimes="0;0.55;0.59;0.60;0.64;1" dur="14s" begin="2s" repeatCount="indefinite"/>
+    </text>
+  </g>
+
+  <!-- top/bottom fade gradients -->
+  <rect width="1200" height="180" fill="url(#fade)" pointer-events="none"/>
+</svg>

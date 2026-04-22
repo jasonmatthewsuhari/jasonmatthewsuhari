@@ -1,5 +1,13 @@
 <img src="../images/top-banner.png" width="100%">
 
+<!-- ⚠️  STATIC TRANSLATION — the English [README.md](../README.md) has the live widgets
+     (animated CRT banner, tamagotchi pet, RPG sheet, time-aware NOW ticker,
+     live SG weather card, joke-of-the-day, easter-egg chain). these pages
+     are snapshots and do not auto-update. -->
+
+
+<!-- EGG5 🥚 egg 5 of 7 — selamat datang. lima telur sudah ditemukan. next stop: ../scripts/joke.py (find the fossil comment) -->
+
 <div align="center">
 
 <br>

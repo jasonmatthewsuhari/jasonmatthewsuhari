@@ -111,6 +111,8 @@ def build_grid(message: str) -> list[list[bool]]:
     return cols
 
 
+# 🥚 EGG 4/7: four eggs down, three to go. next clue lives in the Indonesian
+# README (alt_readme/README_ID.md) — look for an HTML comment tagged EGG5.
 def get_start_sunday(weeks_back: int = 52) -> datetime:
     """Get the Sunday that starts the contribution graph ~1 year ago."""
     today = datetime.now()
