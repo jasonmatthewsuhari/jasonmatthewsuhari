@@ -207,9 +207,9 @@ Despite my profile picture making me look like I run three MLMs in my sleep, I d
 <br><br>
 
 <!-- JOKE:START -->
-> 🃏 **joke of the day** — _2026-04-23_
+> 🃏 **joke of the day** — _2026-04-22_
 > 
-> Weeks of coding can save you hours of planning.
+> Ransomware: the CEO's surprise pop quiz.
 <!-- JOKE:END -->
 
 <br>
