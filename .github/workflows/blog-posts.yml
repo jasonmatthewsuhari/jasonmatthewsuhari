@@ -7,6 +7,13 @@ on:
     - cron: "0 2 * * *" # runs daily at 2:00 UTC
   workflow_dispatch:
 
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-commit
+  cancel-in-progress: false
+
 jobs:
   update-readme-with-blog:
     runs-on: ubuntu-latest
