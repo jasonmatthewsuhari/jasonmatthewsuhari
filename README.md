@@ -317,7 +317,8 @@ Despite my profile picture making me look like I run three MLMs in my sleep, I d
 <summary><b>&gt; ./blog.sh</b> <sub>(latest posts from Medium)</sub></summary>
 
 <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- [The Great Blunder of “Study Techniques”](https://medium.com/@jasonmatthewsuhari/the-great-blunder-of-study-techniques-507d5f684e73?source=rss-4c7070164f1c------2) — *Mon Mar 18 2024 9:09 AM*
+- [The Deadline Dilemma: How Indefinite Tasks Kill Your To-Do List](https://medium.com/@jasonmatthewsuhari/the-deadline-dilemma-how-indefinite-tasks-kill-your-to-do-list-7e25ed5af087?source=rss-4c7070164f1c------2) — *Sun Mar 17 2024 2:49 PM*<!-- BLOG-POST-LIST:END -->
 
 </details>
 
