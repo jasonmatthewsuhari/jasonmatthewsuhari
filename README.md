@@ -71,21 +71,6 @@ I'm a data scientist and aspiring indie game developer from Indonesia, currently
 
 Despite my profile picture making me look like I run three MLMs in my sleep, I do enjoy talking to people and making new friends :)
 
-<div align="center">
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="images/terminal-about.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="images/terminal-about.svg" />
-  <img alt="About Jason" src="images/terminal-about.svg" width="100%" />
-</picture>
-
-</div>
-
-<!-- COFFEE:START -->
-> ☕ **1,792** cups of coffee fueled these commits · _(lifetime count, refreshed daily)_
-<!-- COFFEE:END -->
-
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=2" width="100%" />
@@ -111,40 +96,6 @@ Despite my profile picture making me look like I run three MLMs in my sleep, I d
 <br>
 
 <img src="https://skillicons.dev/icons?i=git,docker,vscode,vercel,linux,supabase,figma&theme=dark" alt="Tools" />
-
-<br><br>
-
-<details>
-<summary><b>&gt; ./skills.sh --animated</b> <sub>(click to animate the bars)</sub></summary>
-<br>
-<img src="images/skills.svg" alt="animated skill bars" width="100%"/>
-</details>
-
-</div>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=2" width="100%" />
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                     CHARACTER SHEET + PET                           -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://media.giphy.com/media/jpbnoe3UIa8TxU8Zg6/giphy.gif" width="28"> &nbsp;Character Sheet
-
-<div align="center">
-
-<a href="#"><img src="images/rpg-sheet.svg" alt="rpg character sheet" width="85%"/></a>
-
-<br><br>
-
-<details>
-<summary><b>&gt; ./feed_pet.sh</b> <sub>(the tamagotchi lives)</sub></summary>
-<br>
-<img src="images/pet.svg" alt="tamagotchi pet" width="360"/>
-<br>
-<sub>mood shifts based on days-since-last-push. feed it commits.</sub>
-</details>
 
 </div>
 
@@ -188,41 +139,6 @@ Despite my profile picture making me look like I run three MLMs in my sleep, I d
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=2" width="100%" />
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                    LIVE WIDGETS (wttr, joke)                        -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://media.giphy.com/media/xT9IgDEI1iZyb2wqo8/giphy.gif" width="28"> &nbsp;Live Widgets
-
-<table align="center" width="100%">
-<tr>
-<td align="center" width="50%" valign="top">
-<b>SG weather right now</b>
-<br><br>
-<img src="images/sg-card.svg" alt="singapore weather" width="100%"/>
-<br>
-<sub>auto-refreshed hourly from wttr.in</sub>
-</td>
-<td align="center" width="50%" valign="top">
-<b>joke of the day</b>
-<br><br>
-
-<!-- JOKE:START -->
-> 🃏 **joke of the day** — _2026-04-22_
-> 
-> Ransomware: the CEO's surprise pop quiz.
-<!-- JOKE:END -->
-
-<br>
-<sub>deterministic pick from <code>data/jokes.json</code>. curated by me, blame also me.</sub>
-</td>
-</tr>
-</table>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=2" width="100%" />
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                     3D CONTRIBUTION CALENDAR                        -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
@@ -253,33 +169,23 @@ Despite my profile picture making me look like I run three MLMs in my sleep, I d
 
 <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=jasonmatthewsuhari&theme=gruvbox&hide_border=true&background=00000000&ring=FFFFFF&fire=D55E00&currStreakLabel=56B4E9&sideLabels=FFFFFF&dates=FFFFFF80" alt="GitHub Streak" />
 
-<br><br>
-
-<details>
-<summary><b>&gt; ./stats.sh --verbose</b> <sub>(trophies, activity, leetcode)</sub></summary>
-
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=jasonmatthewsuhari&theme=gruvbox&no-frame=true&no-bg=true&column=7&title=Stars,Followers,Commits,Issues,PullRequest,Repositories,Experience" alt="trophies"/>
-
-<br><br>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=jasonmatthewsuhari&theme=gruvbox&hide_border=true&bg_color=00000000&color=FFFFFF&line=56B4E9&point=D55E00&area=true&area_color=FFFFFF20" alt="Contribution Graph" />
-
-<br><br>
-
-<img src="https://leetcard.jacoblin.cool/jasonmatthewsuhari?theme=dark&font=Fira%20Code&ext=activity" alt="leetcode stats" width="60%"/>
-
-</details>
-
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                      RECENT ACTIVITY + BLOG                         -->
+<!--                          RECENT SIGNALS                             -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<details>
-<summary><b>&gt; ./recent.sh</b> <sub>(what I've been touching lately)</sub></summary>
+## <img src="https://media.giphy.com/media/jpbnoe3UIa8TxU8Zg6/giphy.gif" width="28"> &nbsp;Recent Signals
+
+<div align="center">
+<sub>📡 &nbsp;<code>tail -f ~/github.log</code> &nbsp;·&nbsp; last 5 events &nbsp;·&nbsp; auto-synced every 30 min</sub>
+</div>
+
+<br>
+
+<table align="center" width="96%">
+<tr>
+<td>
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#25626](https://github.com/google-gemini/gemini-cli/pull/25626) in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
@@ -289,9 +195,13 @@ Despite my profile picture making me look like I run three MLMs in my sleep, I d
 5. 🗣 Commented on [#25373](https://github.com/google-gemini/gemini-cli/pull/25373#issuecomment-4290886125) in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
 <!--END_SECTION:activity-->
 
-</details>
+</td>
+</tr>
+</table>
 
 <br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=2" width="100%" />
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                           QUOTE                                     -->
