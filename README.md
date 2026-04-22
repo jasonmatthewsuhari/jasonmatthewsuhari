@@ -83,7 +83,7 @@ Despite my profile picture making me look like I run three MLMs in my sleep, I d
 </div>
 
 <!-- COFFEE:START -->
-> ☕ **—** cups of coffee fueled these commits · _(lifetime count, refreshed daily)_
+> ☕ **1,792** cups of coffee fueled these commits · _(lifetime count, refreshed daily)_
 <!-- COFFEE:END -->
 
 <br>
