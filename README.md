@@ -188,11 +188,11 @@ Despite my profile picture making me look like I run three MLMs in my sleep, I d
 <td>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#25626](https://github.com/google-gemini/gemini-cli/pull/25626) in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
-2. 🗣 Commented on [#25747](https://github.com/google-gemini/gemini-cli/issues/25747#issuecomment-4291567935) in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
-3. 🗣 Commented on [#24399](https://github.com/google-gemini/gemini-cli/pull/24399#issuecomment-4291217223) in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
-4. 🗣 Commented on [#25626](https://github.com/google-gemini/gemini-cli/pull/25626#issuecomment-4291164214) in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
-5. 🗣 Commented on [#25373](https://github.com/google-gemini/gemini-cli/pull/25373#issuecomment-4290886125) in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
+1. 🚀 Published release [Fluent v1.0.0-beta.1 — first installable build](https://github.com/jasonmatthewsuhari/fluent/releases/tag/v1.0.0-beta.1) in [jasonmatthewsuhari/fluent](https://github.com/jasonmatthewsuhari/fluent)
+2. 🎉 Merged PR [#25626](https://github.com/google-gemini/gemini-cli/pull/25626) in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
+3. 🗣 Commented on [#25747](https://github.com/google-gemini/gemini-cli/issues/25747#issuecomment-4291567935) in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
+4. 🗣 Commented on [#24399](https://github.com/google-gemini/gemini-cli/pull/24399#issuecomment-4291217223) in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
+5. 🗣 Commented on [#25626](https://github.com/google-gemini/gemini-cli/pull/25626#issuecomment-4291164214) in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
 <!--END_SECTION:activity-->
 
 </td>
