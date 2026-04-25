@@ -13,7 +13,7 @@
 <div align="center">
 
 <!-- NOW:START -->
-> **right now** — 🎨 long pixel-art session _(last ping: Sat 17:48 SGT)_
+> **right now** — 🏋️ gym (allegedly) _(last ping: Sat 18:18 SGT)_
 <!-- NOW:END -->
 
 </div>
