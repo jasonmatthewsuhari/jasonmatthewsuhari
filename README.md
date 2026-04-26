@@ -188,11 +188,11 @@ Despite my profile picture making me look like I run three MLMs in my sleep, I d
 <td>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/jasonmatthewsuhari/sightline/pull/14) in [jasonmatthewsuhari/sightline](https://github.com/jasonmatthewsuhari/sightline)
-2. 🔒 Closed issue [#7](https://github.com/jasonmatthewsuhari/sightline/issues/7) in [jasonmatthewsuhari/sightline](https://github.com/jasonmatthewsuhari/sightline)
-3. 🔒 Closed issue [#6](https://github.com/jasonmatthewsuhari/sightline/issues/6) in [jasonmatthewsuhari/sightline](https://github.com/jasonmatthewsuhari/sightline)
-4. 🎉 Merged PR [#13](https://github.com/jasonmatthewsuhari/sightline/pull/13) in [jasonmatthewsuhari/sightline](https://github.com/jasonmatthewsuhari/sightline)
-5. 🎉 Merged PR [#12](https://github.com/jasonmatthewsuhari/sightline/pull/12) in [jasonmatthewsuhari/sightline](https://github.com/jasonmatthewsuhari/sightline)
+1. 🎉 Merged PR [#26](https://github.com/jasonmatthewsuhari/sightline/pull/26) in [jasonmatthewsuhari/sightline](https://github.com/jasonmatthewsuhari/sightline)
+2. 🔒 Closed issue [#20](https://github.com/jasonmatthewsuhari/sightline/issues/20) in [jasonmatthewsuhari/sightline](https://github.com/jasonmatthewsuhari/sightline)
+3. 💪 Opened PR [#26](https://github.com/jasonmatthewsuhari/sightline/pull/26) in [jasonmatthewsuhari/sightline](https://github.com/jasonmatthewsuhari/sightline)
+4. 🎉 Merged PR [#25](https://github.com/jasonmatthewsuhari/sightline/pull/25) in [jasonmatthewsuhari/sightline](https://github.com/jasonmatthewsuhari/sightline)
+5. 🔒 Closed issue [#19](https://github.com/jasonmatthewsuhari/sightline/issues/19) in [jasonmatthewsuhari/sightline](https://github.com/jasonmatthewsuhari/sightline)
 <!--END_SECTION:activity-->
 
 </td>
