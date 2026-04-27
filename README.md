@@ -13,7 +13,7 @@
 <div align="center">
 
 <!-- NOW:START -->
-> **right now** — 🦇 the witching hour, terminal glow on the face _(last ping: Mon 22:16 SGT)_
+> **right now** — 👨‍💻 late-night commits, zero remorse _(last ping: Mon 23:14 SGT)_
 <!-- NOW:END -->
 
 </div>
