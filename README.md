@@ -13,7 +13,7 @@
 <div align="center">
 
 <!-- NOW:START -->
-> **right now** — 📐 proof that I regret choosing DSA _(last ping: Tue 12:42 SGT)_
+> **right now** — 👨‍💻 coding with the kind of focus that scares people _(last ping: Tue 14:04 SGT)_
 <!-- NOW:END -->
 
 </div>
