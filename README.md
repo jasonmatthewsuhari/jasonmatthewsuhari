@@ -13,7 +13,7 @@
 <div align="center">
 
 <!-- NOW:START -->
-> **right now** — 👥 project meeting — someone will mention 'deliverables' _(last ping: Tue 18:17 SGT)_
+> **right now** — 🍜 hawker dinner — zi char or bust _(last ping: Tue 19:13 SGT)_
 <!-- NOW:END -->
 
 </div>
