@@ -13,7 +13,7 @@
 <div align="center">
 
 <!-- NOW:START -->
-> **right now** — 🌌 dreaming about pointer bugs _(last ping: Fri 02:38 SGT)_
+> **right now** — 🛌 asleep (hopefully) _(last ping: Fri 04:28 SGT)_
 <!-- NOW:END -->
 
 </div>
