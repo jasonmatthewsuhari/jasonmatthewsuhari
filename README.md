@@ -13,7 +13,7 @@
 <div align="center">
 
 <!-- NOW:START -->
-> **right now** — 📖 reading docs that didn't need to be this long _(last ping: Thu 11:11 SGT)_
+> **right now** — 🍱 deciding between 4 places I eat at every week _(last ping: Thu 12:42 SGT)_
 <!-- NOW:END -->
 
 </div>
