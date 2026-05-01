@@ -13,7 +13,7 @@
 <div align="center">
 
 <!-- NOW:START -->
-> **right now** — 👨‍💻 coding with the kind of focus that scares people _(last ping: Fri 14:05 SGT)_
+> **right now** — 🧠 second coffee hitting _(last ping: Fri 15:20 SGT)_
 <!-- NOW:END -->
 
 </div>
