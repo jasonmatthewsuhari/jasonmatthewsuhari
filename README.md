@@ -13,7 +13,7 @@
 <div align="center">
 
 <!-- NOW:START -->
-> **right now** — 🎮 local multiplayer with the squad _(last ping: Sat 20:23 SGT)_
+> **right now** — 🎮 local multiplayer with the squad _(last ping: Sat 20:49 SGT)_
 <!-- NOW:END -->
 
 </div>
