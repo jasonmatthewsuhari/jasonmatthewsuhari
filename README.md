@@ -13,7 +13,7 @@
 <div align="center">
 
 <!-- NOW:START -->
-> **right now** — 🍞 breakfast speedrun _(last ping: Sun 08:48 SGT)_
+> **right now** — 🚇 on the MRT, headphones in _(last ping: Sun 09:38 SGT)_
 <!-- NOW:END -->
 
 </div>
