@@ -13,7 +13,7 @@
 <div align="center">
 
 <!-- NOW:START -->
-> **right now** — 📊 tutorial, pretending I did the pre-reading _(last ping: Mon 16:55 SGT)_
+> **right now** — ☕ third coffee, committing war crimes in git _(last ping: Mon 17:51 SGT)_
 <!-- NOW:END -->
 
 </div>
