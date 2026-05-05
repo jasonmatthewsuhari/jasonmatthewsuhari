@@ -13,7 +13,7 @@
 <div align="center">
 
 <!-- NOW:START -->
-> **right now** — 🎧 cooking to a lofi playlist _(last ping: Tue 20:31 SGT)_
+> **right now** — 🎧 cooking to a lofi playlist _(last ping: Tue 21:39 SGT)_
 <!-- NOW:END -->
 
 </div>
