@@ -13,7 +13,7 @@
 <div align="center">
 
 <!-- NOW:START -->
-> **right now** — 🧑‍💻 pair programming with past-me _(last ping: Thu 20:10 SGT)_
+> **right now** — 🎮 godot after dark _(last ping: Thu 21:07 SGT)_
 <!-- NOW:END -->
 
 </div>
