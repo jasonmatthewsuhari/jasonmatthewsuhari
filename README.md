@@ -13,7 +13,7 @@
 <div align="center">
 
 <!-- NOW:START -->
-> **right now** — 🎉 last-class euphoria _(last ping: Fri 19:34 SGT)_
+> **right now** — 🎨 pixel art — nothing matches tomorrow _(last ping: Fri 20:35 SGT)_
 <!-- NOW:END -->
 
 </div>
