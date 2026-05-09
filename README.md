@@ -13,7 +13,7 @@
 <div align="center">
 
 <!-- NOW:START -->
-> **right now** — 🛒 groceries + an unplanned bubble tea _(last ping: Sat 13:57 SGT)_
+> **right now** — 🎨 long pixel-art session _(last ping: Sat 14:55 SGT)_
 <!-- NOW:END -->
 
 </div>
