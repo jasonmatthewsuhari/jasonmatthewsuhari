@@ -13,7 +13,7 @@
 <div align="center">
 
 <!-- NOW:START -->
-> **right now** — 🎮 local multiplayer with the squad _(last ping: Sat 22:31 SGT)_
+> **right now** — 🧑‍🍳 late-night kitchen experiment _(last ping: Sat 23:25 SGT)_
 <!-- NOW:END -->
 
 </div>
