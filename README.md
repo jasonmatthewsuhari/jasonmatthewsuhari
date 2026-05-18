@@ -13,7 +13,7 @@
 <div align="center">
 
 <!-- NOW:START -->
-> **right now** — 💻 opening the laptop with malicious intent _(last ping: Mon 08:52 SGT)_
+> **right now** — 📚 probably in CS3244 lecture _(last ping: Mon 09:45 SGT)_
 <!-- NOW:END -->
 
 </div>
