@@ -13,7 +13,7 @@
 <div align="center">
 
 <!-- NOW:START -->
-> **right now** — 🍲 eating something that earned its MSG _(last ping: Wed 18:33 SGT)_
+> **right now** — 🍲 eating something that earned its MSG _(last ping: Wed 19:59 SGT)_
 <!-- NOW:END -->
 
 </div>
