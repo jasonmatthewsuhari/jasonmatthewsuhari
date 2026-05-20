@@ -13,7 +13,7 @@
 <div align="center">
 
 <!-- NOW:START -->
-> **right now** — 🎮 godot after dark _(last ping: Wed 21:12 SGT)_
+> **right now** — 🦇 the witching hour, terminal glow on the face _(last ping: Wed 22:22 SGT)_
 <!-- NOW:END -->
 
 </div>
