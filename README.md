@@ -13,7 +13,7 @@
 <div align="center">
 
 <!-- NOW:START -->
-> **right now** — 🎧 lofi hip-hop radio, 5 tabs, one thought _(last ping: Thu 01:09 SGT)_
+> **right now** — 😴 knocked out _(last ping: Thu 02:17 SGT)_
 <!-- NOW:END -->
 
 </div>
