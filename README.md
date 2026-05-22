@@ -13,7 +13,7 @@
 <div align="center">
 
 <!-- NOW:START -->
-> **right now** — 🚇 on the MRT, headphones in _(last ping: Fri 08:52 SGT)_
+> **right now** — 💻 opening the laptop with malicious intent _(last ping: Fri 09:44 SGT)_
 <!-- NOW:END -->
 
 </div>
