@@ -13,7 +13,7 @@
 <div align="center">
 
 <!-- NOW:START -->
-> **right now** — 😴 knocked out _(last ping: Sat 05:28 SGT)_
+> **right now** — 😴 knocked out _(last ping: Sat 05:54 SGT)_
 <!-- NOW:END -->
 
 </div>
