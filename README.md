@@ -13,7 +13,7 @@
 <div align="center">
 
 <!-- NOW:START -->
-> **right now** — 🦇 the witching hour, terminal glow on the face _(last ping: Sun 22:34 SGT)_
+> **right now** — 📚 reading papers I won't remember _(last ping: Sun 23:27 SGT)_
 <!-- NOW:END -->
 
 </div>
