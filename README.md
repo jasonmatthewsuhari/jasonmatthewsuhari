@@ -13,7 +13,7 @@
 <div align="center">
 
 <!-- NOW:START -->
-> **right now** — 🎮 godot after dark _(last ping: Sun 20:55 SGT)_
+> **right now** — 🎨 pixel art — nothing matches tomorrow _(last ping: Sun 21:34 SGT)_
 <!-- NOW:END -->
 
 </div>
