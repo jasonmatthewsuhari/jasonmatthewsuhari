@@ -13,7 +13,7 @@
 <div align="center">
 
 <!-- NOW:START -->
-> **right now** — 📊 tutorial, pretending I did the pre-reading _(last ping: Mon 14:56 SGT)_
+> **right now** — 📊 tutorial, pretending I did the pre-reading _(last ping: Mon 16:36 SGT)_
 <!-- NOW:END -->
 
 </div>
