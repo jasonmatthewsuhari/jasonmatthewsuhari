@@ -13,7 +13,7 @@
 <div align="center">
 
 <!-- NOW:START -->
-> **right now** — 🏋️ gym (allegedly) _(last ping: Sat 18:12 SGT)_
+> **right now** — 🥟 dumplings and existentialism _(last ping: Sat 19:00 SGT)_
 <!-- NOW:END -->
 
 </div>
