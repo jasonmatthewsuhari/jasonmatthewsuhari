@@ -13,7 +13,7 @@
 <div align="center">
 
 <!-- NOW:START -->
-> **right now** — 🎬 movie night _(last ping: Sat 23:56 SGT)_
+> **right now** — 🌙 3am debugging session, feat. regret _(last ping: Sun 00:30 SGT)_
 <!-- NOW:END -->
 
 </div>
