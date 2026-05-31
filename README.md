@@ -13,7 +13,7 @@
 <div align="center">
 
 <!-- NOW:START -->
-> **right now** — 🦉 night owl mode — writing code that won't make sense tomorrow _(last ping: Mon 00:56 SGT)_
+> **right now** — 🎧 lofi hip-hop radio, 5 tabs, one thought _(last ping: Mon 01:29 SGT)_
 <!-- NOW:END -->
 
 </div>
